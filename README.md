@@ -79,7 +79,7 @@ HTML                     1 repo              ██░░░░░░░░░�
  Last Updated on 19/01/2022
 <!--END_SECTION:waka-->
 
-### Now Playing 🎶
+#### Now Playing 🎶
 
 [![Spotify](https://spotifyxd.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31a2knpxmuez2uo44wigmbqxjapy)
 
