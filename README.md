@@ -1,4 +1,5 @@
 <h2 align="center"><bold>Hi 👋 I'm <a href="https://vinuxd.github.io">VINU</a></bold></h2>
+<p align="center"> <a href=https://github.com/vinuxd><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=%2300FF7F&size=15&center=true&vCenter=true&height=20&lines=Software+Developer;Electrical+Engineer;Chess+Geek;Photographer"/></a></p>
 <h5 align="center"><bold>A Hobby Dev from India.</bold></h5>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -115,6 +116,8 @@ HTML                     1 repo              ██░░░░░░░░░�
   <img src="https://spotifyxd.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff"/></a>
 </p>
 
+</br>
+
 ---
 
-<h4 align="center"><bold>Thanks for your time 😀</br>Have a Great Day !</bold></h4>
+<h4 align="center"><bold>Have a Great Day !</bold></h4>
