@@ -1,4 +1,4 @@
-<h2 align="center"><bold>Hi 👋, I'm VINU</bold></h2>
+<h2 align="center"><bold>Hi 👋 I'm VINU</bold></h2>
 <h5 align="center"><bold>A Hobby Dev from India.</bold></h5>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
