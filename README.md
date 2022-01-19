@@ -1,4 +1,5 @@
-<h2 align="center">Hi 👋, I'm VINU</h2>
+<h2 align="center"><bold>Hi 👋, I'm VINU</bold></h2>
+<h5 align="center"><bold>A Hobby Dev from India.</bold></h5>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -101,7 +102,16 @@ HTML                     1 repo              ██░░░░░░░░░�
  Last Updated on 19/01/2022
 <!--END_SECTION:waka-->
 
+---
+
 ### Now Playing 🎧
 
-[![Spotify](https://spotifyxd.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://vinuxd.github.io)
+<p align="center">
+  <img src="https://spotifyxd.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff"/>
+</p>
 
+---
+
+<p align="center">
+  <img src="https://github.com/VinuXD/VinuXD/blob/master/images/end.png" alt="THE END"/>
+</p>
