@@ -1,6 +1,9 @@
-<h2 align="center"><bold>Hi 👋 I'm <a href="https://vinuxd.github.io">VINU</a></bold></h2>
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=%2300FF7F&size=15&center=true&vCenter=true&width=500&height=20&lines=Software+Developer;Electrical+Engineer"/></p>
+<h2 align="center"><bold>Hi 👋 I'm <a href="https://vinuxd.github.io">VINU</a> !</bold></h2>
 <h5 align="center"><bold>A Hobby Dev from India.</bold></h5>
+
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=%2300FF7F&size=15&center=true&vCenter=true&width=500&height=20&lines=Software+Developer;Electrical+Engineer"/></p>
+
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></p>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -22,10 +25,11 @@
 ![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 
-
 <p align="center"> <a href= https://vinuxd.me>
   <img src="https://github-readme-stats.vercel.app/api?username=vinuxd&hide=contribs,prs&show_icons=true&theme=chartreuse-dark"/></a>
 </p>
+
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></p>
 
 
 <!--START_SECTION:waka-->
@@ -103,7 +107,7 @@ Makefile                 1 repo              ██░░░░░░░░░�
  Last Updated on 19/01/2022
 <!--END_SECTION:waka-->
 
-#
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></p>
 
 ### Now Playing 🎧
 
@@ -111,6 +115,7 @@ Makefile                 1 repo              ██░░░░░░░░░�
   <img src="https://spotifyxd.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff"/></a>
 </p>
 
----
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></p>
 
-<h4 align="center"><bold>Have a Great Day !</bold></h4>
+
+<h4 align="center"><bold>Have a Great Day ! 😃</bold></h4>
