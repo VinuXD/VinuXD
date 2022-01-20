@@ -1,8 +1,6 @@
 <h2 align="center"><bold>Hi 👋 I'm <a href="https://vinuxd.github.io">VINU</a> !</bold></h2>
 <h5 align="center"><bold>A Hobby Dev from India.</bold></h5>
-
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=%2300FF7F&size=15&center=true&vCenter=true&width=500&height=20&lines=Software+Developer;Electrical+Engineer"/></p>
-
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></p>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
