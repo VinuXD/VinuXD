@@ -112,7 +112,7 @@ Makefile                 1 repo              ██░░░░░░░░░�
 ### Now Playing 🎧
 
 <p align="center"> <a href= https://vinuxd.me>
-  <img src="https://spotifyxd.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff"/></a>
+  <img src="https://spotifyxd.vercel.app/api/spotify?background_color=000000&border_color=00ff7f"/></a>
 </p>
 
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></p>
