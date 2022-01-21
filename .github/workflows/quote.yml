@@ -1,4 +1,4 @@
-name: Quot README
+name: Quote README
 
 on:
   workflow_dispatch:
