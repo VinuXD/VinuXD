@@ -1,4 +1,4 @@
-<!--About-->
+<!--About Start-->
 <h2 align="center"><bold>Hi 👋 I'm <a href="https://vinuxd.github.io">VINU</a> !</bold></h2>
 <h5 align="center"><bold>A Hobby Dev from India.</bold></h5>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=%2300FF7F&size=15&center=true&vCenter=true&width=500&height=20&lines=Software+Developer;Electrical+Engineer"/></p>
@@ -27,7 +27,7 @@
 ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 <!--Skill Icons End-->
 
-<!--Github Stats-->
+<!--Github Stats Start-->
 <p align="center"><a href=https://vinuxd.me> <img src="https://github-readme-stats.vercel.app/api?username=vinuxd&hide=contribs,prs&show_icons=true&theme=chartreuse-dark"/></a></p>
 <!--Github Stats End-->
 
@@ -135,11 +135,10 @@ Makefile                 1 repo              ██░░░░░░░░░�
 <!--Border Line-->
 
 
-### Now Playing 🎧
-
-<!--Spotify Now Playing-->
+<!--Spotify Start-->
+<h3 align="center">Now Playing 🎙</h3>
 <p align="center"><a href=https://vinuxd.me><img src="https://spotifyxd.vercel.app/api/spotify?background_color=000000&border_color=00ff7f"/></a></p>
-<!--Spotify Now Playing-->
+<!--Spotify End-->
 
 <!--Border Line-->
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></p>
