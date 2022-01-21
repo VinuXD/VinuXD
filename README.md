@@ -121,6 +121,14 @@ Makefile                 1 repo              ██░░░░░░░░░�
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></p>
 <!--Border Line-->
 
+<!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
+
+<!--Border Line-->
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></p>
+<!--Border Line-->
+
+
 ### Now Playing 🎧
 
 <!--Spotify Now Playing-->
@@ -130,7 +138,3 @@ Makefile                 1 repo              ██░░░░░░░░░�
 <!--Border Line-->
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></p>
 <!--Border Line-->
-
-<!--End Section-->
-<h4 align="center"><bold>Have a Great Day ! 😉</bold></h4>
-<!--End Section-->

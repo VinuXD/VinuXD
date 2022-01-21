@@ -1,0 +1,17 @@
+name: Update Quote Readme
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 2 * * *"
+
+jobs:
+  update-readme:
+    name: Update Quote README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: siddharth2016/quote-readme@main
+      - uses: siddharth2016/update-readme-image@main
+        with:
+          COMMIT_MESSAGE: "Quote Updated"
+          OPTION: "funfact"
