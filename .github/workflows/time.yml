@@ -1,18 +1,20 @@
+name: Update Timestamp
+
+on:  
+  schedule:
+    - cron: '* 2 * * *'
+  workflow_dispatch:
+
 jobs:
-  publish:
+  activity:
+    name: Update README with recent activity
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@master
-        with:
-          persist-credentials: false
-          fetch-depth: 0
-      - name: Create README.md
-        uses: actions-js/profile-readme@master
-        with:
-          username: vinuxd
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-      - name: Commit & Push changes
-        uses: actions-js/push@master
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Add activity to readme
+        uses: Readme-Workflows/recent-activity@v2.3.2
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
