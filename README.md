@@ -30,7 +30,7 @@
 <p align="center"><a href=https://vinuxd.me> <img src="https://github-readme-stats.vercel.app/api?username=vinuxd&hide=contribs,prs&show_icons=true&theme=chartreuse-dark"/></a></p>
 <!--Github Stats End-->
 
-<h3>Recent Actions ⚡</h3>
+<h3>Recent Activity ⚡</h3>
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [VinuXD/catub](https://github.com/VinuXD/catub)
