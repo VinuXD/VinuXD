@@ -33,11 +33,11 @@
 <h3>Recent Activity ⚡</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [VinuXD/catub](https://github.com/VinuXD/catub)
-2. ⭐ Starred [VinuXD/VinuXD](https://github.com/VinuXD/VinuXD)
-3. ⭐ Starred [sourcery-ai/sourcery](https://github.com/sourcery-ai/sourcery)
-4. 📔 Created new repository [VinuXD/Project-Starter](https://github.com/VinuXD/Project-Starter)
-5. 📔 Created new repository [VinuXD/VinuXD](https://github.com/VinuXD/VinuXD)
+1. ⭐ Starred [public-apis/public-apis](https://github.com/public-apis/public-apis)
+2. ⭐ Starred [VinuXD/catub](https://github.com/VinuXD/catub)
+3. ⭐ Starred [VinuXD/VinuXD](https://github.com/VinuXD/VinuXD)
+4. ⭐ Starred [sourcery-ai/sourcery](https://github.com/sourcery-ai/sourcery)
+5. 📔 Created new repository [VinuXD/Project-Starter](https://github.com/VinuXD/Project-Starter)
 <!--RECENT_ACTIVITY:end-->
 
 <!--Border Line-->
@@ -154,7 +154,7 @@ Makefile                 1 repo              ██░░░░░░░░░�
 
 <p align="center">
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 22nd, 2022, 6:06:11 AM
+Last Updated: Saturday, January 22nd, 2022, 8:21:08 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </p>
 
