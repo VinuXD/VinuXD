@@ -33,11 +33,11 @@
 <h3>Recent Activities ⚡</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [public-apis/public-apis](https://github.com/public-apis/public-apis)
-2. ⭐ Starred [VinuXD/catub](https://github.com/VinuXD/catub)
-3. ⭐ Starred [VinuXD/VinuXD](https://github.com/VinuXD/VinuXD)
-4. ⭐ Starred [sourcery-ai/sourcery](https://github.com/sourcery-ai/sourcery)
-5. 📔 Created new repository [VinuXD/Project-Starter](https://github.com/VinuXD/Project-Starter)
+1. ⭐ Starred [adityaprasad502/adityaprasad502](https://github.com/adityaprasad502/adityaprasad502)
+2. ❌ Closed PR [#1](https://github.com/VinuXD/Spotify-ReadMe/pull/1) in [VinuXD/Spotify-ReadMe](https://github.com/VinuXD/Spotify-ReadMe)
+3. ⭐ Starred [public-apis/public-apis](https://github.com/public-apis/public-apis)
+4. ⭐ Starred [VinuXD/catub](https://github.com/VinuXD/catub)
+5. ⭐ Starred [VinuXD/VinuXD](https://github.com/VinuXD/VinuXD)
 <!--RECENT_ACTIVITY:end-->
 
 <!--Border Line-->
@@ -152,7 +152,7 @@ Makefile                 1 repo              ██░░░░░░░░░�
 <!--Border Line-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh: <b>Saturday, January 22nd, 2022, 2:12:15 PM IST</b>
+<p align="center">Last refresh: <b>Saturday, January 22nd, 2022, 4:08:11 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--Border Line-->
