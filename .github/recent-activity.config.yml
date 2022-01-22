@@ -1,4 +1,5 @@
 settings:
+  readme_file: "./README.md"
   username: "VinuXD"
   commit_msg: "Update Recent Actions"
   max_lines: 5
