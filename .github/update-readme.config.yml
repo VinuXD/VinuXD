@@ -7,8 +7,8 @@ settings:
     - "comments"
   date:
     timezone: "Asia/Kolkata"
-    text: '<p align="center">Last refresh: <b>{DATE} IST</b>'
-    format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
+    text: '<p align="center">Last refresh on: <b>{DATE} IST</b>'
+    format: "dddd, mmmm dS yyyy, h:MM:ss TT"
     commit_name: "readme-bot"
 messages:
   comments: "💬 Commented on {ID} in {REPO}"
