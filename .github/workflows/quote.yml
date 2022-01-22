@@ -3,7 +3,7 @@ name: Quote README
 on:
   workflow_dispatch:
   schedule:
-    - cron: '* 6 * * *'
+    - cron: '0 */6 * * *'
 
 jobs:
   update-readme:

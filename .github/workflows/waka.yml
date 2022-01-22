@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: '30 18 * * *'
+    - cron: '0 6,18 * * *'
   workflow_dispatch:
 jobs:
   update-readme:
@@ -18,3 +18,4 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_PROFILE_VIEWS: "False"
           COMMIT_MESSAGE: "Updated Wakatime and Metrics"
+          SHOW_PROJECTS: "False"
