@@ -154,7 +154,7 @@ Makefile                 1 repo              ██░░░░░░░░░�
 
 <p align="center">
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 22nd, 2022, 8:33:46 AM
+<p align="center">Last refresh: <b>Saturday, January 22nd, 2022, 2:12:15 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 </p>
 
