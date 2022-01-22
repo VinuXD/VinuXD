@@ -30,14 +30,9 @@
 <p align="center"><a href=https://vinuxd.me> <img src="https://github-readme-stats.vercel.app/api?username=vinuxd&hide=contribs,prs&show_icons=true&theme=chartreuse-dark"/></a></p>
 <!--Github Stats End-->
 
-<h3>Recent Activity ⚡</h3>
+<h3>Recent Activities ⚡</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [public-apis/public-apis](https://github.com/public-apis/public-apis)
-2. ⭐ Starred [VinuXD/catub](https://github.com/VinuXD/catub)
-3. ⭐ Starred [VinuXD/VinuXD](https://github.com/VinuXD/VinuXD)
-4. ⭐ Starred [sourcery-ai/sourcery](https://github.com/sourcery-ai/sourcery)
-5. 📔 Created new repository [VinuXD/Project-Starter](https://github.com/VinuXD/Project-Starter)
 <!--RECENT_ACTIVITY:end-->
 
 <!--Border Line-->
@@ -154,7 +149,6 @@ Makefile                 1 repo              ██░░░░░░░░░�
 
 <p align="center">
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 22nd, 2022, 8:28:04 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 </p>
 
