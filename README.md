@@ -134,7 +134,7 @@ Makefile                 1 repo              ██░░░░░░░░░�
 <h3 align="center">Funfact 🎈</h3>
 <p align="center">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝There are over 1.5 billion instant messaging id’s in the world over.❞</i>
+<i>❝Windows doesn’t allow for creation of folders tagged CON, PRN, AUX, or NUL. These are keywords reserved by DOS.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </p>
 <!--Funfact end-->
@@ -154,7 +154,7 @@ Makefile                 1 repo              ██░░░░░░░░░�
 
 <p align="center">
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 22nd, 2022, 8:33:46 AM
+<p align="center">Last refresh: <b>Saturday, January 22nd, 2022, 2:12:15 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 </p>
 
