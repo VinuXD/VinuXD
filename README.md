@@ -31,6 +31,7 @@
 <!--Github Stats End-->
 
 <h3>Recent Actions ⚡</h3>
+
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [VinuXD/catub](https://github.com/VinuXD/catub)
 2. ⭐ Starred [VinuXD/VinuXD](https://github.com/VinuXD/VinuXD)
