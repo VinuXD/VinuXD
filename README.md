@@ -152,11 +152,9 @@ Makefile                 1 repo              ██░░░░░░░░░�
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></p>
 <!--Border Line-->
 
-<p align="center">
 <!--RECENT_ACTIVITY:last_update-->
 <p align="center">Last refresh: <b>Saturday, January 22nd, 2022, 2:12:15 PM IST</b>
 <!--RECENT_ACTIVITY:last_update_end-->
-</p>
 
 <!--Border Line-->
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></p>
