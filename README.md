@@ -152,11 +152,11 @@ Makefile                 1 repo              ██░░░░░░░░░�
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></p>
 <!--Border Line-->
 
-<p align="center"><code>
+<p align="center">
 <!--RECENT_ACTIVITY:last_update-->
 Last Updated: Saturday, January 22nd, 2022, 5:39:42 AM
 <!--RECENT_ACTIVITY:last_update_end-->
-</code></p>
+</p>
 
 <!--Border Line-->
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></p>
