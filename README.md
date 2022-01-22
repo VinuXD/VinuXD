@@ -39,9 +39,6 @@
 4. 📔 Created new repository [VinuXD/Project-Starter](https://github.com/VinuXD/Project-Starter)
 5. 📔 Created new repository [VinuXD/VinuXD](https://github.com/VinuXD/VinuXD)
 <!--RECENT_ACTIVITY:end-->
-<!--RECENT_ACTIVITY:last_update-->
-Last Updated: Saturday, January 22nd, 2022, 5:39:42 AM
-<!--RECENT_ACTIVITY:last_update_end-->
 
 <!--Border Line-->
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></p>
@@ -150,6 +147,16 @@ Makefile                 1 repo              ██░░░░░░░░░�
 <h3 align="center">Now Playing 🎙</h3>
 <p align="center"><a href=https://vinuxd.me><img src="https://spotifyxd.vercel.app/api/spotify?background_color=000000&border_color=00ff7f"/></a></p>
 <!--Spotify End-->
+
+<!--Border Line-->
+<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></p>
+<!--Border Line-->
+
+<p align="center">
+<!--RECENT_ACTIVITY:last_update-->
+Last Updated: Saturday, January 22nd, 2022, 5:39:42 AM
+<!--RECENT_ACTIVITY:last_update_end-->
+</p>
 
 <!--Border Line-->
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></p>
