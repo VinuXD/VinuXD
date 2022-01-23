@@ -127,7 +127,7 @@ Makefile                 1 repo              ██░░░░░░░░░�
 <h3 align="center">Funfact 🎈</h3>
 <p align="center">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Around 50% of all Wikipedia vandalism is caught by a single computer program with more than 90% accuracy.❞</i>
+<i>❝Doug Engelbart invented the first computer mouse in around 1964 which was made of wood.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </p>
 <!--Funfact end-->
