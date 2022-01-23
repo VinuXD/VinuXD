@@ -125,7 +125,7 @@ Makefile                 1 repo              ██░░░░░░░░░�
 <h3 align="center">Funfact 🎈</h3>
 <p align="center">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Facebook has over a billion users. If it was a country it would be the third largest in the world.❞</i>
+<i>❝The first ever hard disk drive was made in 1979, and could hold only 5MB of data.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </p>
 <!--Funfact end-->
