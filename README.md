@@ -146,7 +146,7 @@ Makefile                 1 repo              ██░░░░░░░░░�
 <!--Border Line-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<p align="center">Last refresh on: <b>Sunday, January 23rd 2022, 5:35:57 PM IST</b>
+<h5 align="center">Last refresh on: <b>Sunday, January 23rd 2022, 8:32:49 PM IST</b></h5>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--Border Line-->
