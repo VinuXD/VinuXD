@@ -33,11 +33,11 @@
 <h3>Recent Activities ⚡</h3>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [AbdelrahmanBayoumi/Desktop-Applications-JavaFX](https://github.com/AbdelrahmanBayoumi/Desktop-Applications-JavaFX)
-2. ⭐ Starred [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-3. ⭐ Starred [adityaprasad502/adityaprasad502](https://github.com/adityaprasad502/adityaprasad502)
-4. ❌ Closed PR [#1](https://github.com/VinuXD/Spotify-ReadMe/pull/1) in [VinuXD/Spotify-ReadMe](https://github.com/VinuXD/Spotify-ReadMe)
-5. ⭐ Starred [public-apis/public-apis](https://github.com/public-apis/public-apis)
+1. ⭐ Starred [cyberboysumanjay/WhatsBot](https://github.com/cyberboysumanjay/WhatsBot)
+2. ⭐ Starred [AbdelrahmanBayoumi/Desktop-Applications-JavaFX](https://github.com/AbdelrahmanBayoumi/Desktop-Applications-JavaFX)
+3. ⭐ Starred [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
+4. ⭐ Starred [adityaprasad502/adityaprasad502](https://github.com/adityaprasad502/adityaprasad502)
+5. ❌ Closed PR [#1](https://github.com/VinuXD/Spotify-ReadMe/pull/1) in [VinuXD/Spotify-ReadMe](https://github.com/VinuXD/Spotify-ReadMe)
 <!--RECENT_ACTIVITY:end-->
 
 <!--Border Line-->
@@ -146,7 +146,7 @@ Makefile                 1 repo              ██░░░░░░░░░�
 <!--Border Line-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<h5 align="center">Last refresh on: <b>Monday, January 24th 2022, 2:31:06 PM IST</b></h5>
+<h5 align="center">Last refresh on: <b>Monday, January 24th 2022, 5:34:04 PM IST</b></h5>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--Border Line-->
