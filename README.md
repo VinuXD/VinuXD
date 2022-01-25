@@ -148,16 +148,16 @@ Makefile                 1 repo              ██░░░░░░░░░�
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></p>
 <!--Border Line-->
 
-<!--RECENT_ACTIVITY:last_update-->
-<h5 align="center">Last refresh: <b>Tuesday, January 25th, 2022, 5:37:23 PM IST</b></h5>
-<!--RECENT_ACTIVITY:last_update_end-->
+<h3>📫 Contact Me</h3>
+<a href="https://t.me/vinuxd" class="padded"><img height="70" style="border:0px;height:70px;" align="left" alt="contact" src="https://github.com/VinuXD/VinuXD/blob/70519e676496b13056cabc711080f90bbd8cf491/assests/contact.png" /></a>
 
 <!--Border Line-->
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></p>
 <!--Border Line-->
 
-<h2>💁‍♂️ Contact Me</h2>
-<a href="https://t.me/vinuxd" class="padded"><img height="70" style="border:0px;height:70px;" align="left" alt="contact" src="https://github.com/VinuXD/VinuXD/blob/70519e676496b13056cabc711080f90bbd8cf491/assests/contact.png" /></a>
+<!--RECENT_ACTIVITY:last_update-->
+<h5 align="center">Last refresh: <b>Tuesday, January 25th, 2022, 5:37:23 PM IST</b></h5>
+<!--RECENT_ACTIVITY:last_update_end-->
 
 <!--Border Line-->
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></p>
