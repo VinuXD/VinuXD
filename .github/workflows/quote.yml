@@ -3,7 +3,7 @@ name: Quote README
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 */8 * * *'
 
 jobs:
   update-readme:
@@ -12,5 +12,5 @@ jobs:
     steps:
       - uses: siddharth2016/quote-readme@main
         with:
-          COMMIT_MESSAGE: Quote Updated
+          COMMIT_MESSAGE: Quote Updated.
           OPTION: funfact
