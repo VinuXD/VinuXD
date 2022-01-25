@@ -45,7 +45,7 @@
 <!--Border Line-->
 
 
-<h3>My Statistics 📊</h3>
+<h3>My Stats 📊</h3> <
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2012%20mins-blue)
