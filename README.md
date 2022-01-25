@@ -1,6 +1,6 @@
 <!--About Start-->
-<h2 align="center"><bold>Hi 👋 I'm <a href="https://vinuxd.github.io">VINU</a> !</bold></h2>
-<h5 align="center"><bold>A Hobby Dev from India.</bold></h5>
+<h1 align="center"><bold>Hi 👋 I'm <a href="https://vinuxd.github.io">VINU</a> !</bold></h1>
+<h4 align="center"><bold>A Hobby Dev from India.</bold></h4>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=%2300FF7F&size=15&center=true&vCenter=true&width=500&height=20&lines=Software+Developer;Electrical+Engineer"/><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></p>
 <!--About End-->
 
@@ -30,7 +30,7 @@
 <p align="center"><a href=https://vinuxd.me> <img src="https://github-readme-stats.vercel.app/api?username=vinuxd&hide=contribs,prs&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/></a></p>
 <!--Github Stats End-->
 
-<h3>Recent Activities ⚡</h3>
+<h2>⚡ Recent Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [cyberboysumanjay/WhatsBot](https://github.com/cyberboysumanjay/WhatsBot)
@@ -45,7 +45,7 @@
 <!--Border Line-->
 
 
-<h3>Coding Statistics ✨</h3>
+<h2>💻 Coding Statistics</h2>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2012%20mins-blue)
@@ -127,7 +127,7 @@ Makefile                 1 repo              ██░░░░░░░░░�
 <!--Border Line-->
 
 <!--Funfact start-->
-<h3 align="center">Funfact 🎈</h3>
+<h2 align="center">🎈 Funfact</h2>
 <p align="center">
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝There is a video game, called “Lose/Lose” that deletes a random file on your computer every time you kill an enemy.❞</i>
@@ -140,7 +140,7 @@ Makefile                 1 repo              ██░░░░░░░░░�
 <!--Border Line-->
 
 <!--Spotify Start-->
-<h3 align="center">Now Playing 🎙</h3>
+<h2 align="center">🎙 Now Playing</h2>
 <p align="center"><a href=https://vinuxd.me><img src="https://spotifyxd.vercel.app/api/spotify?background_color=000000&border_color=00ff7f"/></a></p>
 <!--Spotify End-->
 
@@ -155,3 +155,5 @@ Makefile                 1 repo              ██░░░░░░░░░�
 <!--Border Line-->
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></p>
 <!--Border Line-->
+
+
