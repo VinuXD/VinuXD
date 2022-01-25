@@ -130,7 +130,7 @@ Makefile                 1 repo              ██░░░░░░░░░�
 <h2 align="center">🎈 Funfact</h2>
 <p align="center">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝There is a video game, called “Lose/Lose” that deletes a random file on your computer every time you kill an enemy.❞</i>
+<i>❝Apple’s first computer, the Apple I, went on sale in 1976 for $666.66 because Steve Wozniak liked repeating digits and found them easier to type. He said he was unaware of any Satanic connotations with the number.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </p>
 <!--Funfact end-->
@@ -149,7 +149,7 @@ Makefile                 1 repo              ██░░░░░░░░░�
 <!--Border Line-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<h5 align="center">Last refresh: <b>Tuesday, January 25th, 2022, 5:01:08 PM IST</b></h5>
+<h5 align="center">Last refresh: <b>Tuesday, January 25th, 2022, 5:37:23 PM IST</b></h5>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--Border Line-->
