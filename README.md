@@ -27,7 +27,7 @@
 <!--Skill Icon End-->
 
 <!--Github Stats Start-->
-<p align="center"><a href=https://vinuxd.me> <img src="https://github-readme-stats.vercel.app/api?username=vinuxd&hide=contribs,prs&show_icons=true&theme=chartreuse-dark"/></a></p>
+<p align="center"><a href=https://vinuxd.me> <img src="https://github-readme-stats.vercel.app/api?username=vinuxd&hide=contribs,prs&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/></a></p>
 <!--Github Stats End-->
 
 <h3>Recent Activities ⚡</h3>
@@ -45,7 +45,7 @@
 <!--Border Line-->
 
 
-<h3>My Stats 📊</h3>
+<h3>Coding Statistics ✨</h3>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2012%20mins-blue)
