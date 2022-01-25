@@ -1,4 +1,4 @@
-name: Quote README
+name: FunFact
 
 on:
   workflow_dispatch:
