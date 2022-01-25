@@ -157,7 +157,7 @@ Makefile                 1 repo              ██░░░░░░░░░�
 <!--Border Line-->
 
 <h2>💁‍♂️ Contact Me</h2>
-<a href="https://t.me/vinuxd" class="padded"><img height="30" style="border:0px;height:30px;" align="left" alt="contact" src="https://github.com/VinuXD/VinuXD/blob/70519e676496b13056cabc711080f90bbd8cf491/assests/contact.png" /></a>
+<a href="https://t.me/vinuxd" class="padded"><img height="70" style="border:0px;height:70px;" align="left" alt="contact" src="https://github.com/VinuXD/VinuXD/blob/70519e676496b13056cabc711080f90bbd8cf491/assests/contact.png" /></a>
 
 <!--Border Line-->
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></p>
