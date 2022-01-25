@@ -15,7 +15,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          CONFIG_FILE: "./.github/update-readme.config.yml"
+          CONFIG_FILE: "./.github/config.yml"
 
       - uses: actions-js/profile-readme@master
         with:
