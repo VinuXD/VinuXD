@@ -44,6 +44,9 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></p>
 <!--Border Line-->
 
+
+<h3>My Statistics 📊</h3>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2012%20mins-blue)
 
