@@ -127,7 +127,7 @@ Makefile                 1 repo              ██░░░░░░░░░�
 <!--Border Line-->
 
 <!--Funfact start-->
-<h2 align="center">🎈 Funfact</h2>
+<h3 align="center">🎈 Funfact</h3>
 <p align="center">
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝Apple’s first computer, the Apple I, went on sale in 1976 for $666.66 because Steve Wozniak liked repeating digits and found them easier to type. He said he was unaware of any Satanic connotations with the number.❞</i>
@@ -140,7 +140,7 @@ Makefile                 1 repo              ██░░░░░░░░░�
 <!--Border Line-->
 
 <!--Spotify Start-->
-<h2 align="center">🎙 Now Playing</h2>
+<h3 align="center">🎙 Now Playing</h3>
 <p align="center"><a href=https://vinuxd.me><img src="https://spotifyxd.vercel.app/api/spotify?background_color=000000&border_color=00ff7f"/></a></p>
 <!--Spotify End-->
 
@@ -149,7 +149,7 @@ Makefile                 1 repo              ██░░░░░░░░░�
 <!--Border Line-->
 
 <h3>📫 Contact Me</h3>
-<a href="https://t.me/vinuxd" class="padded"><img height="70" style="border:0px;height:70px;" align="left" alt="contact" src="https://github.com/VinuXD/VinuXD/blob/70519e676496b13056cabc711080f90bbd8cf491/assests/contact.png" /></a>
+<a href="https://t.me/vinuxd" class="padded"><img height="60" align="left" alt="contact" src="https://github.com/VinuXD/VinuXD/blob/70519e676496b13056cabc711080f90bbd8cf491/assests/contact.png" /></a>
 
 <!--Border Line-->
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></p>
