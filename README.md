@@ -1,5 +1,5 @@
 <!--About Start-->
-<h1 align="center"><bold>Hi 👋 I'm <a href="https://vinuxd.github.io">VINU</a> !</bold></h1>
+<h2 align="center"><bold>Hi 👋 I'm <a href="https://vinuxd.github.io">VINU</a> !</bold></h2>
 <h4 align="center"><bold>A Hobby Dev from India.</bold></h4>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=%2300FF7F&size=15&center=true&vCenter=true&width=500&height=20&lines=Software+Developer;Electrical+Engineer"/><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></p>
 <!--About End-->
@@ -27,7 +27,7 @@
 <!--Skill Icon End-->
 
 <!--Github Stats Start-->
-<p align="center"><a href=https://vinuxd.me> <img src="https://github-readme-stats.vercel.app/api?username=vinuxd&hide=contribs,prs&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/></a></p>
+<p align="center"><a href=https://vinuxd.me><img src="https://github-readme-stats.vercel.app/api?username=vinuxd&hide=contribs,prs&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/></a></p>
 <!--Github Stats End-->
 
 <h2>⚡ Recent Activities</h2>
