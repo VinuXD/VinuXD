@@ -1,6 +1,5 @@
 settings:
-  disabled_events:
-  - issues
+  disabled_events: [issues]
   readme_file: "./README.md"
   username: "VinuXD"
   commit_msg: "Recent Activity Updated."
