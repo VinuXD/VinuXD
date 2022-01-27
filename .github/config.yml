@@ -1,11 +1,10 @@
 settings:
-  disabled_events: [issues]
   readme_file: "./README.md"
   username: "VinuXD"
   commit_msg: "Recent Activity Updated."
   max_lines: 5
   disabled_events:
-    - "comments"
+    - "issues"
   date:
     timezone: "Asia/Kolkata"
     text: '<h5 align="center">Last refresh: <b>{DATE} IST</b></h5>'
