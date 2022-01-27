@@ -33,11 +33,11 @@
 <h2>⚡ Recent Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [cyberboysumanjay/WhatsBot](https://github.com/cyberboysumanjay/WhatsBot)
-2. ⭐ Starred [AbdelrahmanBayoumi/Desktop-Applications-JavaFX](https://github.com/AbdelrahmanBayoumi/Desktop-Applications-JavaFX)
-3. ⭐ Starred [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. ⭐ Starred [adityaprasad502/adityaprasad502](https://github.com/adityaprasad502/adityaprasad502)
-5. ❌ Closed PR [#1](https://github.com/VinuXD/Spotify-ReadMe/pull/1) in [VinuXD/Spotify-ReadMe](https://github.com/VinuXD/Spotify-ReadMe)
+1. 🔱 Forked [VinuXD/abdulrahman.id](https://github.com/VinuXD/abdulrahman.id) from [abdulrcs/abdulrahman.id](https://github.com/abdulrcs/abdulrahman.id)
+2. ⭐ Starred [abdulrcs/abdulrahman.id](https://github.com/abdulrcs/abdulrahman.id)
+3. 🔱 Forked [VinuXD/waka-readme-stats](https://github.com/VinuXD/waka-readme-stats) from [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+4. ⭐ Starred [cyberboysumanjay/WhatsBot](https://github.com/cyberboysumanjay/WhatsBot)
+5. ⭐ Starred [AbdelrahmanBayoumi/Desktop-Applications-JavaFX](https://github.com/AbdelrahmanBayoumi/Desktop-Applications-JavaFX)
 <!--RECENT_ACTIVITY:end-->
 
 <!--Border Line-->
@@ -48,41 +48,39 @@
 <h2>💻 Coding Statistics</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2012%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-48%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-68%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 104 Contributions in the Year 2022
+> 🏆 144 Contributions in the Year 2022
  > 
-> 📦 18.4 kB Used in GitHub's Storage 
+> 📦 20.2 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 8 Public Repositories 
+> 📜 9 Public Repositories 
  > 
-> 🔑 6 Private Repositories  
+> 🔑 9 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    62 commits     █████░░░░░░░░░░░░░░░░░░░░   21.68% 
-🌆 Daytime    91 commits     ████████░░░░░░░░░░░░░░░░░   31.82% 
-🌃 Evening    133 commits    ███████████░░░░░░░░░░░░░░   46.5% 
+🌞 Morning    64 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+🌆 Daytime    110 commits    ████████░░░░░░░░░░░░░░░░░   34.38% 
+🌃 Evening    146 commits    ███████████░░░░░░░░░░░░░░   45.62% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.79% 
-Tuesday      12 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.2% 
-Wednesday    17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.94% 
-Thursday     43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.03% 
-Friday       58 commits     █████░░░░░░░░░░░░░░░░░░░░   20.28% 
-Saturday     57 commits     █████░░░░░░░░░░░░░░░░░░░░   19.93% 
-Sunday       71 commits     ██████░░░░░░░░░░░░░░░░░░░   24.83%
+Monday       28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.75% 
+Tuesday      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.75% 
+Wednesday    35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.94% 
+Thursday     43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.44% 
+Friday       58 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.12% 
+Saturday     57 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.81% 
+Sunday       71 commits     █████░░░░░░░░░░░░░░░░░░░░   22.19%
 
 ```
 
@@ -93,28 +91,28 @@ Sunday       71 commits     ██████░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 4 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   41.91% 
-Java                     3 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   29.43% 
-YAML                     2 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   25.89% 
-HTML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.38% 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.23%
+Markdown                 5 hrs 26 mins       ███████████░░░░░░░░░░░░░░   47.3% 
+YAML                     3 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   27.63% 
+Java                     2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.54% 
+HTML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.55% 
+JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.2%
 
 🔥 Editors: 
-VS Code                  11 hrs 12 mins      █████████████████████████   100.0%
+VS Code                  11 hrs 29 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  11 hrs 12 mins      █████████████████████████   100.0%
+Windows                  11 hrs 29 mins      █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in Java** 
 
 ```text
-Java                     3 repos             ███████░░░░░░░░░░░░░░░░░░   30.0% 
-Python                   3 repos             ███████░░░░░░░░░░░░░░░░░░   30.0% 
-CSS                      2 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-Makefile                 1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
+Java                     3 repos             █████░░░░░░░░░░░░░░░░░░░░   23.08% 
+Python                   3 repos             █████░░░░░░░░░░░░░░░░░░░░   23.08% 
+JavaScript               3 repos             █████░░░░░░░░░░░░░░░░░░░░   23.08% 
+CSS                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   7.69%
 
 ```
 
@@ -130,7 +128,7 @@ Makefile                 1 repo              ██░░░░░░░░░�
 <h3 align="center">🎈 Funfact</h3>
 <p align="center">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Computers have memory or RAM, which stores items on the computer when they’re not in use. The processor stores everything your computer needs to run.❞</i>
+<i>❝Around 50% of all Wikipedia vandalism is caught by a single computer program with more than 90% accuracy.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </p>
 <!--Funfact end-->
@@ -156,7 +154,7 @@ Makefile                 1 repo              ██░░░░░░░░░�
 <!--Border Line-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<h5 align="center">Last refresh: <b>Wednesday, January 26th, 2022, 5:48:26 AM IST</b></h5>
+<h5 align="center">Last refresh: <b>Thursday, January 27th, 2022, 11:32:54 AM IST</b></h5>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--Border Line-->
