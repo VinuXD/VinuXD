@@ -154,7 +154,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 <!--Border Line-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, January 27th, 2022, 3:55:56 AM
+<h5 align="center">Last refresh: <b>Thursday, January 27th, 2022, 11:32:54 AM IST</b></h5>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--Border Line-->
