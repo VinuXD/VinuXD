@@ -33,11 +33,11 @@
 <h2>⚡ Recent Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [VinuXD/abdulrahman.id](https://github.com/VinuXD/abdulrahman.id) from [abdulrcs/abdulrahman.id](https://github.com/abdulrcs/abdulrahman.id)
-2. ⭐ Starred [abdulrcs/abdulrahman.id](https://github.com/abdulrcs/abdulrahman.id)
-3. 🔱 Forked [VinuXD/waka-readme-stats](https://github.com/VinuXD/waka-readme-stats) from [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-4. ⭐ Starred [cyberboysumanjay/WhatsBot](https://github.com/cyberboysumanjay/WhatsBot)
-5. ⭐ Starred [AbdelrahmanBayoumi/Desktop-Applications-JavaFX](https://github.com/AbdelrahmanBayoumi/Desktop-Applications-JavaFX)
+1. 📔 Created new repository [VinuXD/Portfolio-assets](https://github.com/VinuXD/Portfolio-assets)
+2. 🔱 Forked [VinuXD/abdulrahman.id](https://github.com/VinuXD/abdulrahman.id) from [abdulrcs/abdulrahman.id](https://github.com/abdulrcs/abdulrahman.id)
+3. ⭐ Starred [abdulrcs/abdulrahman.id](https://github.com/abdulrcs/abdulrahman.id)
+4. 🔱 Forked [VinuXD/waka-readme-stats](https://github.com/VinuXD/waka-readme-stats) from [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+5. ⭐ Starred [cyberboysumanjay/WhatsBot](https://github.com/cyberboysumanjay/WhatsBot)
 <!--RECENT_ACTIVITY:end-->
 
 <!--Border Line-->
@@ -156,7 +156,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 <!--Border Line-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<h5 align="center">Last refresh: <b>Friday, January 28th, 2022, 11:32:59 AM IST</b></h5>
+<h5 align="center">Last refresh: <b>Friday, January 28th, 2022, 5:36:15 PM IST</b></h5>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--Border Line-->
