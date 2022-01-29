@@ -130,7 +130,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 <h3 align="center">🎈 Funfact</h3>
 <p align="center">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The house where Bill Gates lives, was designed using a Macintosh computer.❞</i>
+<i>❝Hard disks are so sensitive to vibration, that just screaming at them diminishes their performance.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </p>
 <!--Funfact end-->
