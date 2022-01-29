@@ -33,11 +33,11 @@
 <h2>⚡ Recent Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [VinuXD/Portfolio-assets](https://github.com/VinuXD/Portfolio-assets)
-2. 🔱 Forked [VinuXD/abdulrahman.id](https://github.com/VinuXD/abdulrahman.id) from [abdulrcs/abdulrahman.id](https://github.com/abdulrcs/abdulrahman.id)
-3. ⭐ Starred [abdulrcs/abdulrahman.id](https://github.com/abdulrcs/abdulrahman.id)
-4. 🔱 Forked [VinuXD/waka-readme-stats](https://github.com/VinuXD/waka-readme-stats) from [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-5. ⭐ Starred [cyberboysumanjay/WhatsBot](https://github.com/cyberboysumanjay/WhatsBot)
+1. 💬 Commented on [#1](https://github.com/VinuXD/readme-stats/pull/1#issuecomment-1024847326) in [VinuXD/readme-stats](https://github.com/VinuXD/readme-stats)
+2. 💬 Commented on [#1](https://github.com/VinuXD/readme-stats/pull/1#issuecomment-1024846483) in [VinuXD/readme-stats](https://github.com/VinuXD/readme-stats)
+3. 💬 Commented on [#1](https://github.com/VinuXD/readme-stats/pull/1#issuecomment-1024845979) in [VinuXD/readme-stats](https://github.com/VinuXD/readme-stats)
+4. 🎉 Merged PR [#1](https://github.com/VinuXD/readme-stats/pull/1) in [VinuXD/readme-stats](https://github.com/VinuXD/readme-stats)
+5. 🔱 Forked [VinuXD/readme-stats](https://github.com/VinuXD/readme-stats) from [adityaprasad502/readme-stats](https://github.com/adityaprasad502/readme-stats)
 <!--RECENT_ACTIVITY:end-->
 
 <!--Border Line-->
@@ -150,7 +150,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 <!--Border Line-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<h5 align="center">Last refresh: <b>Saturday, January 29th, 2022, 5:45:40 AM IST</b></h5>
+<h5 align="center">Last refresh: <b>Saturday, January 29th, 2022, 3:41:04 PM IST</b></h5>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--Border Line-->
