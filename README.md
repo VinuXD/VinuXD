@@ -33,11 +33,11 @@
 <h2>⚡ Recent Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [VinuXD/abdulrahman.id](https://github.com/VinuXD/abdulrahman.id) from [abdulrcs/abdulrahman.id](https://github.com/abdulrcs/abdulrahman.id)
-2. ⭐ Starred [abdulrcs/abdulrahman.id](https://github.com/abdulrcs/abdulrahman.id)
-3. 🔱 Forked [VinuXD/waka-readme-stats](https://github.com/VinuXD/waka-readme-stats) from [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-4. ⭐ Starred [cyberboysumanjay/WhatsBot](https://github.com/cyberboysumanjay/WhatsBot)
-5. ⭐ Starred [AbdelrahmanBayoumi/Desktop-Applications-JavaFX](https://github.com/AbdelrahmanBayoumi/Desktop-Applications-JavaFX)
+1. 📔 Created new repository [VinuXD/Portfolio-assets](https://github.com/VinuXD/Portfolio-assets)
+2. 🔱 Forked [VinuXD/abdulrahman.id](https://github.com/VinuXD/abdulrahman.id) from [abdulrcs/abdulrahman.id](https://github.com/abdulrcs/abdulrahman.id)
+3. ⭐ Starred [abdulrcs/abdulrahman.id](https://github.com/abdulrcs/abdulrahman.id)
+4. 🔱 Forked [VinuXD/waka-readme-stats](https://github.com/VinuXD/waka-readme-stats) from [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+5. ⭐ Starred [cyberboysumanjay/WhatsBot](https://github.com/cyberboysumanjay/WhatsBot)
 <!--RECENT_ACTIVITY:end-->
 
 <!--Border Line-->
@@ -48,39 +48,41 @@
 <h2>💻 Coding Statistics</h2>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-68%20Thousand%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2024%20mins-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-83%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 144 Contributions in the Year 2022
+> 🏆 194 Contributions in the Year 2022
  > 
-> 📦 20.2 kB Used in GitHub's Storage 
+> 📦 24.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 9 Public Repositories 
+> 📜 10 Public Repositories 
  > 
 > 🔑 9 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    64 commits     █████░░░░░░░░░░░░░░░░░░░░   20.0% 
-🌆 Daytime    110 commits    ████████░░░░░░░░░░░░░░░░░   34.38% 
-🌃 Evening    146 commits    ███████████░░░░░░░░░░░░░░   45.62% 
+🌞 Morning    79 commits     █████░░░░░░░░░░░░░░░░░░░░   21.58% 
+🌆 Daytime    116 commits    ████████░░░░░░░░░░░░░░░░░   31.69% 
+🌃 Evening    171 commits    ███████████░░░░░░░░░░░░░░   46.72% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.75% 
-Tuesday      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.75% 
-Wednesday    35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.94% 
-Thursday     43 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.44% 
-Friday       58 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.12% 
-Saturday     57 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.81% 
-Sunday       71 commits     █████░░░░░░░░░░░░░░░░░░░░   22.19%
+Monday       28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.65% 
+Tuesday      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.65% 
+Wednesday    32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.74% 
+Thursday     56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.3% 
+Friday       85 commits     █████░░░░░░░░░░░░░░░░░░░░   23.22% 
+Saturday     66 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.03% 
+Sunday       71 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.4%
 
 ```
 
@@ -91,17 +93,17 @@ Sunday       71 commits     █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 5 hrs 26 mins       ███████████░░░░░░░░░░░░░░   47.3% 
-YAML                     3 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   27.63% 
-Java                     2 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   17.54% 
-HTML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.55% 
-JSON                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.2%
+JavaScript               13 hrs 14 mins      ████████████████░░░░░░░░░   65.46% 
+YAML                     2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.84% 
+Markdown                 2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+JSON                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.66% 
+HTML                     38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.16%
 
 🔥 Editors: 
-VS Code                  11 hrs 29 mins      █████████████████████████   100.0%
+VS Code                  20 hrs 14 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  11 hrs 29 mins      █████████████████████████   100.0%
+Windows                  20 hrs 14 mins      █████████████████████████   100.0%
 
 ```
 
@@ -128,7 +130,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 <h3 align="center">🎈 Funfact</h3>
 <p align="center">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Around 50% of all Wikipedia vandalism is caught by a single computer program with more than 90% accuracy.❞</i>
+<i>❝Hard disks are so sensitive to vibration, that just screaming at them diminishes their performance.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </p>
 <!--Funfact end-->
@@ -154,7 +156,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 <!--Border Line-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<h5 align="center">Last refresh: <b>Thursday, January 27th, 2022, 11:32:54 AM IST</b></h5>
+<h5 align="center">Last refresh: <b>Saturday, January 29th, 2022, 5:45:40 AM IST</b></h5>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--Border Line-->
