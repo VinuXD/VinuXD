@@ -48,7 +48,7 @@
 <h2>💻 Coding Statistics</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time%20since%2021/1/2022-31%20hrs%206%20mins-blue?style=plastic&logo=Codepen)
+![Code Time](http://img.shields.io/badge/Code%20Time%20since%2021/1/2022-31%20hrs%2012%20mins-blue?style=plastic&logo=Codepen)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-68%20Thousand%20lines%20of%20code-blue)
 
