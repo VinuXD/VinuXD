@@ -33,11 +33,11 @@
 <h2>⚡ Recent Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [VinuXD/Portfolio-assets](https://github.com/VinuXD/Portfolio-assets)
-2. 🔱 Forked [VinuXD/abdulrahman.id](https://github.com/VinuXD/abdulrahman.id) from [abdulrcs/abdulrahman.id](https://github.com/abdulrcs/abdulrahman.id)
-3. ⭐ Starred [abdulrcs/abdulrahman.id](https://github.com/abdulrcs/abdulrahman.id)
-4. 🔱 Forked [VinuXD/waka-readme-stats](https://github.com/VinuXD/waka-readme-stats) from [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-5. ⭐ Starred [cyberboysumanjay/WhatsBot](https://github.com/cyberboysumanjay/WhatsBot)
+1. ⭐ Starred [olexale/flutter_roadmap](https://github.com/olexale/flutter_roadmap)
+2. ⭐ Starred [lohanidamodar/flutter_ui_challenges](https://github.com/lohanidamodar/flutter_ui_challenges)
+3. 🎉 Merged PR [#1](https://github.com/VinuXD/readme-stats/pull/1) in [VinuXD/readme-stats](https://github.com/VinuXD/readme-stats)
+4. 🔱 Forked [VinuXD/readme-stats](https://github.com/VinuXD/readme-stats) from [adityaprasad502/readme-stats](https://github.com/adityaprasad502/readme-stats)
+5. 📔 Created new repository [VinuXD/Portfolio-assets](https://github.com/VinuXD/Portfolio-assets)
 <!--RECENT_ACTIVITY:end-->
 
 <!--Border Line-->
@@ -48,15 +48,15 @@
 <h2>💻 Coding Statistics</h2>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time%20since%2021/1/2022-28%20hrs%2026%20mins-blue?style=plastic&logo=Codepen)
+![Code Time](http://img.shields.io/badge/Code%20Time%20since%2021/1/2022-31%20hrs%2012%20mins-blue?style=plastic&logo=Codepen)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-83%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-68%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 196 Contributions in the Year 2022
+> 🏆 201 Contributions in the Year 2022
  > 
-> 📦 24.9 kB Used in GitHub's Storage 
+> 📦 25.1 kB Used in GitHub's Storage 
  > 
 > 📜 10 Public Repositories 
  > 
@@ -65,21 +65,21 @@
 **🥰 I'm an Early 🐤** 
 
 ```text
-🌞 Morning    79 commits     █████░░░░░░░░░░░░░░░░░░░░   21.58% 
-🌆 Daytime    116 commits    ████████░░░░░░░░░░░░░░░░░   31.69% 
-🌃 Evening    171 commits    ███████████░░░░░░░░░░░░░░   46.72% 
+🌞 Morning    77 commits     █████░░░░░░░░░░░░░░░░░░░░   20.87% 
+🌆 Daytime    118 commits    ████████░░░░░░░░░░░░░░░░░   31.98% 
+🌃 Evening    174 commits    ███████████░░░░░░░░░░░░░░   47.15% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday       28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.65% 
-Tuesday      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.65% 
-Wednesday    30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.2% 
-Thursday     56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.3% 
-Friday       85 commits     █████░░░░░░░░░░░░░░░░░░░░   23.22% 
-Saturday     68 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.58% 
-Sunday       71 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.4%
+Monday       28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.59% 
+Tuesday      28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.59% 
+Wednesday    28 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.59% 
+Thursday     56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.18% 
+Friday       85 commits     █████░░░░░░░░░░░░░░░░░░░░   23.04% 
+Saturday     73 commits     █████░░░░░░░░░░░░░░░░░░░░   19.78% 
+Sunday       71 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.24%
 ```
 
 
@@ -89,17 +89,17 @@ Sunday       71 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               13 hrs 14 mins      ████████████████░░░░░░░░░   65.46% 
-YAML                     2 hrs 23 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.84% 
-Markdown                 2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
-JSON                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.66% 
-HTML                     38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.16%
+JavaScript               13 hrs 27 mins      ████████████████░░░░░░░░░   67.26% 
+Dart                     1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.63% 
+JSON                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.57% 
+Markdown                 1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   5.73% 
+Other                    36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.07%
 
 🔥 Editors: 
-VS Code                  20 hrs 14 mins      █████████████████████████   100.0%
+VS Code                  20 hrs              █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  20 hrs 14 mins      █████████████████████████   100.0%
+Windows                  20 hrs              █████████████████████████   100.0%
 ```
 
 **🧑‍💻 I Mostly Code in Java** 
@@ -124,7 +124,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 <h3 align="center">🎈 Funfact</h3>
 <p align="center">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Hard disks are so sensitive to vibration, that just screaming at them diminishes their performance.❞</i>
+<i>❝4004 was the name given to the first microprocessor by Intel.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </p>
 <!--Funfact end-->
@@ -150,7 +150,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 <!--Border Line-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<h5 align="center">Last refresh: <b>Saturday, January 29th, 2022, 5:45:40 AM IST</b></h5>
+<h5 align="center">Last refresh: <b>Wednesday, February 2nd, 2022, 6:12:31 AM IST</b></h5>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--Border Line-->
