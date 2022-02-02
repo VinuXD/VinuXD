@@ -143,7 +143,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 <!--Border Line-->
 
 <h3>📫 Contact Me</h3>
-<a href="https://t.me/vinuxd" class="padded"><img height="60" align="left" alt="contact" src="https://github.com/VinuXD/VinuXD/blob/master/assests/contact.png" /></a>
+<a href="https://t.me/vinuxd" class="padded"><img height="60" align="left" alt="contact" src="https://github.com/VinuXD/VinuXD/blob/master/assets/contact.png" /></a>
 
 <!--Border Line-->
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></p>
