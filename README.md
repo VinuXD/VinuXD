@@ -33,11 +33,11 @@
 <h2>⚡ Recent Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [VinuXD/Ultroid](https://github.com/VinuXD/Ultroid) from [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-2. ⭐ Starred [olexale/flutter_roadmap](https://github.com/olexale/flutter_roadmap)
-3. ⭐ Starred [lohanidamodar/flutter_ui_challenges](https://github.com/lohanidamodar/flutter_ui_challenges)
-4. 🎉 Merged PR [#1](https://github.com/VinuXD/readme-stats/pull/1) in [VinuXD/readme-stats](https://github.com/VinuXD/readme-stats)
-5. 🔱 Forked [VinuXD/readme-stats](https://github.com/VinuXD/readme-stats) from [adityaprasad502/readme-stats](https://github.com/adityaprasad502/readme-stats)
+1. 📔 Created new repository [VinuXD/Documentation-Starter-Kit---Markdown-Based-Webapp](https://github.com/VinuXD/Documentation-Starter-Kit---Markdown-Based-Webapp)
+2. ⭐ Starred [sourcery-ai/sourcery](https://github.com/sourcery-ai/sourcery)
+3. 🔱 Forked [VinuXD/Ultroid](https://github.com/VinuXD/Ultroid) from [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+4. ⭐ Starred [olexale/flutter_roadmap](https://github.com/olexale/flutter_roadmap)
+5. ⭐ Starred [lohanidamodar/flutter_ui_challenges](https://github.com/lohanidamodar/flutter_ui_challenges)
 <!--RECENT_ACTIVITY:end-->
 
 <!--Border Line-->
@@ -150,7 +150,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 <!--Border Line-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<h5 align="center">Last refresh: <b>Thursday, February 3rd, 2022, 12:19:08 PM IST</b></h5>
+<h5 align="center">Last refresh: <b>Friday, February 4th, 2022, 12:17:30 AM IST</b></h5>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--Border Line-->
