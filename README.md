@@ -124,7 +124,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 <h3 align="center">🎈 Funfact</h3>
 <p align="center">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝elgoog.im (Google spelled backwards) is a mirrored website of Google Search with horizontally flipped search results, also known as a “Google mirror”. An unofficial elgooG website was created by All Too Flat “for fun”, which started to gain popularity in 2002❞</i>
+<i>❝Whether you use Mozilla, Chrome Explore, please know that Mosaic was the first browser in  Just when I was born.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </p>
 <!--Funfact end-->
