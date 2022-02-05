@@ -33,11 +33,11 @@
 <h2>⚡ Recent Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [VinuXD/Documentation-Starter-Kit---Markdown-Based-Webapp](https://github.com/VinuXD/Documentation-Starter-Kit---Markdown-Based-Webapp)
-2. ⭐ Starred [sourcery-ai/sourcery](https://github.com/sourcery-ai/sourcery)
-3. 🔱 Forked [VinuXD/Ultroid](https://github.com/VinuXD/Ultroid) from [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
-4. ⭐ Starred [olexale/flutter_roadmap](https://github.com/olexale/flutter_roadmap)
-5. ⭐ Starred [lohanidamodar/flutter_ui_challenges](https://github.com/lohanidamodar/flutter_ui_challenges)
+1. ⭐ Starred [pengrad/java-telegram-bot-api](https://github.com/pengrad/java-telegram-bot-api)
+2. 📔 Created new repository [VinuXD/Documentation-Starter-Kit---Markdown-Based-Webapp](https://github.com/VinuXD/Documentation-Starter-Kit---Markdown-Based-Webapp)
+3. ⭐ Starred [sourcery-ai/sourcery](https://github.com/sourcery-ai/sourcery)
+4. 🔱 Forked [VinuXD/Ultroid](https://github.com/VinuXD/Ultroid) from [TeamUltroid/Ultroid](https://github.com/TeamUltroid/Ultroid)
+5. ⭐ Starred [olexale/flutter_roadmap](https://github.com/olexale/flutter_roadmap)
 <!--RECENT_ACTIVITY:end-->
 
 <!--Border Line-->
@@ -148,7 +148,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 <!--Border Line-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<h5 align="center">Last refresh: <b>Saturday, February 5th, 2022, 12:14:56 AM IST</b></h5>
+<h5 align="center">Last refresh: <b>Saturday, February 5th, 2022, 12:14:54 PM IST</b></h5>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--Border Line-->
