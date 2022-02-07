@@ -33,11 +33,11 @@
 <h2>⚡ Recent Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#1](https://github.com/moon-roms/moon-roms.github.io/pull/1) in [moon-roms/moon-roms.github.io](https://github.com/moon-roms/moon-roms.github.io)
-2. 🔱 Forked [VinuXD/moon-roms.github.io](https://github.com/VinuXD/moon-roms.github.io) from [moon-roms/moon-roms.github.io](https://github.com/moon-roms/moon-roms.github.io)
-3. ⭐ Starred [pengrad/java-telegram-bot-api](https://github.com/pengrad/java-telegram-bot-api)
-4. 📔 Created new repository [VinuXD/Documentation-Starter-Kit---Markdown-Based-Webapp](https://github.com/VinuXD/Documentation-Starter-Kit---Markdown-Based-Webapp)
-5. ⭐ Starred [sourcery-ai/sourcery](https://github.com/sourcery-ai/sourcery)
+1. 🎉 Merged PR [#2](https://github.com/VinuXD/readme-stats/pull/2) in [VinuXD/readme-stats](https://github.com/VinuXD/readme-stats)
+2. 🤝 Became collaborator on [VinuXD/VinuXD](https://github.com/VinuXD/VinuXD)
+3. 💪 Opened PR [#1](https://github.com/moon-roms/moon-roms.github.io/pull/1) in [moon-roms/moon-roms.github.io](https://github.com/moon-roms/moon-roms.github.io)
+4. 🔱 Forked [VinuXD/moon-roms.github.io](https://github.com/VinuXD/moon-roms.github.io) from [moon-roms/moon-roms.github.io](https://github.com/moon-roms/moon-roms.github.io)
+5. ⭐ Starred [pengrad/java-telegram-bot-api](https://github.com/pengrad/java-telegram-bot-api)
 <!--RECENT_ACTIVITY:end-->
 
 <!--Border Line-->
@@ -150,7 +150,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 <!--Border Line-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<h5 align="center">Last refresh: <b>Monday, February 7th, 2022, 12:19:14 PM IST</b></h5>
+<h5 align="center">Last refresh: <b>Tuesday, February 8th, 2022, 12:15:45 AM IST</b></h5>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--Border Line-->
