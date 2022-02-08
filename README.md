@@ -151,12 +151,6 @@ Makefile                 1 repo              █░░░░░░░░░░�
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></p>
 <!--Border Line-->
 
-<a href="https://t.me/vinuxd" class="padded"><img height="60" align="left" alt="contact" src="https://github.com/VinuXD/VinuXD/blob/master/assets/contact.png" /></a>
-
-<!--Border Line-->
-<p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></p>
-<!--Border Line-->
-
 <!--RECENT_ACTIVITY:last_update-->
 <h5 align="center">Last refresh: <b>Tuesday, February 8th, 2022, 12:18:54 PM IST</b></h5>
 <!--RECENT_ACTIVITY:last_update_end-->
@@ -164,3 +158,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 <!--Border Line-->
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></p>
 <!--Border Line-->
+
+<a href="https://t.me/vinuxd" class="padded"><img height="60" align="left" alt="contact" src="https://github.com/VinuXD/VinuXD/blob/master/assets/contact.png" /></a>
