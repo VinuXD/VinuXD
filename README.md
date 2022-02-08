@@ -29,11 +29,13 @@
 <!--Github Cards Start-->
 <details>
 <summary>:zap: Github Stats</summary>
+</br>
 <p align="center"><a href=https://vinuxd.me><img src="https://github-readme-stats.vercel.app/api?username=vinuxd&hide=issues&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/></a></p>
 </details>
 
 <details>
 <summary>:zap: Github Streak</summary>
+ </br>
 <p align="center"><a href=https://vinuxd.me><img src="http://github-readme-streak-stats.herokuapp.com?user=vinuxd&theme=chartreuse-dark&hide_border=false&date_format=j%20M%5B%20Y%5D"/></a></p>
 </details>
 
