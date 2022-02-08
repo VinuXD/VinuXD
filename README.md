@@ -34,8 +34,8 @@
 
 <details>
 <summary>:zap: Github Streak</summary>
-<p align="center"><a href=https://vinuxd.me><img src="http://github-readme-streak-stats.herokuapp.com?user=vinuxd&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/></a></p>
-<details>
+<p align="center"><a href=https://vinuxd.me><img src="http://github-readme-streak-stats.herokuapp.com?user=vinuxd&theme=chartreuse-dark&hide_border=false&date_format=j%20M%5B%20Y%5D"/></a></p>
+</details>
 
 <!--Github Cards End-->
 
