@@ -26,9 +26,18 @@
 ![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
 <!--Skill Icon End-->
 
-<!--Github Stats Start-->
-<p align="center"><a href=https://vinuxd.me><img src="https://github-readme-stats.vercel.app/api?username=vinuxd&hide=contribs,prs&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/></a></p>
-<!--Github Stats End-->
+<!--Github Cards Start-->
+<details>
+<summary>:zap: Github Stats</summary>
+<p align="center"><a href=https://vinuxd.me><img src="https://github-readme-stats.vercel.app/api?username=vinuxd&hide=issues&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/></a></p>
+</details>
+
+<details>
+<summary>:zap: Github Streak</summary>
+<p align="center"><a href=https://vinuxd.me><img src="http://github-readme-streak-stats.herokuapp.com?user=vinuxd&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D"/></a></p>
+<details>
+
+<!--Github Cards End-->
 
 <h2>⚡ Recent Activities</h2>
 
@@ -44,7 +53,6 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></p>
 <!--Border Line-->
 
-
 <h2>💻 Coding Statistics</h2>
 
 <!--START_SECTION:waka-->
@@ -52,17 +60,17 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-70%20Thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
 > 🏆 228 Contributions in the Year 2022
- > 
-> 📦 26.1 kB Used in GitHub's Storage 
- > 
-> 📜 12 Public Repositories 
- > 
+ >
+> 📦 26.1 kB Used in GitHub's Storage
+ >
+> 📜 12 Public Repositories
+ >
 > 🔑 10 Private Repositories  
- > 
-**🥰 I'm an Early 🐤** 
+ >
+**🥰 I'm an Early 🐤**
 
 ```text
 🌞 Morning    85 commits     █████░░░░░░░░░░░░░░░░░░░░   21.91% 
@@ -70,7 +78,8 @@
 🌃 Evening    185 commits    ████████████░░░░░░░░░░░░░   47.68% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
-📅 **I'm Most Productive on Friday** 
+
+📅 **I'm Most Productive on Friday**
 
 ```text
 Monday       28 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.22% 
@@ -82,8 +91,7 @@ Saturday     82 commits     █████░░░░░░░░░░░░�
 Sunday       76 commits     █████░░░░░░░░░░░░░░░░░░░░   19.59%
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Kolkata
@@ -104,7 +112,7 @@ VS Code                  15 hrs 10 mins      ███████████�
 Windows                  15 hrs 10 mins      █████████████████████████   100.0%
 ```
 
-**🧑‍💻 I Mostly Code in Java** 
+**🧑‍💻 I Mostly Code in Java**
 
 ```text
 Java                     5 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
@@ -114,8 +122,6 @@ CSS                      2 repos             ███░░░░░░░░�
 HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
 Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
 ```
-
-
 
 <!--END_SECTION:waka-->
 
@@ -145,7 +151,6 @@ Makefile                 1 repo              █░░░░░░░░░░�
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/></p>
 <!--Border Line-->
 
-<h3>📫 Contact Me</h3>
 <a href="https://t.me/vinuxd" class="padded"><img height="60" align="left" alt="contact" src="https://github.com/VinuXD/VinuXD/blob/master/assets/contact.png" /></a>
 
 <!--Border Line-->
