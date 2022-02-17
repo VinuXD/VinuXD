@@ -133,7 +133,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 <h3 align="center">🎈 Funfact</h3>
 <p align="center">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝There are over 1.5 billion instant messaging id’s in the world over.❞</i>
+<i>❝Hard disks are so sensitive to vibration, that just screaming at them diminishes their performance.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </p>
 <!--Funfact end-->
