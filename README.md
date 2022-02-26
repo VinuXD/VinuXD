@@ -44,11 +44,11 @@
 <h2>⚡ Recent Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)
-2. 🎉 Merged PR [#1](https://github.com/VinuXD/Thirukkural-Bot/pull/1) in [VinuXD/Thirukkural-Bot](https://github.com/VinuXD/Thirukkural-Bot)
-3. 💪 Opened PR [#1](https://github.com/VinuXD/Thirukkural-Bot/pull/1) in [VinuXD/Thirukkural-Bot](https://github.com/VinuXD/Thirukkural-Bot)
-4. 📔 Created new repository [VinuXD/Thirukkural-Bot](https://github.com/VinuXD/Thirukkural-Bot)
-5. 🎉 Merged PR [#3](https://github.com/VinuXD/readme-stats/pull/3) in [VinuXD/readme-stats](https://github.com/VinuXD/readme-stats)
+1. 📔 Created new repository [VinuXD/Thirukkural-Bot-Web](https://github.com/VinuXD/Thirukkural-Bot-Web)
+2. ⭐ Starred [TheAlgorithms/Java](https://github.com/TheAlgorithms/Java)
+3. 🎉 Merged PR [#1](https://github.com/VinuXD/Thirukkural-Bot/pull/1) in [VinuXD/Thirukkural-Bot](https://github.com/VinuXD/Thirukkural-Bot)
+4. 💪 Opened PR [#1](https://github.com/VinuXD/Thirukkural-Bot/pull/1) in [VinuXD/Thirukkural-Bot](https://github.com/VinuXD/Thirukkural-Bot)
+5. 📔 Created new repository [VinuXD/Thirukkural-Bot](https://github.com/VinuXD/Thirukkural-Bot)
 <!--RECENT_ACTIVITY:end-->
 
 <!--Border Line-->
@@ -154,7 +154,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 <!--Border Line-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<h5 align="center">Last refresh: <b>Saturday, February 26th, 2022, 12:18:56 PM IST</b></h5>
+<h5 align="center">Last refresh: <b>Sunday, February 27th, 2022, 12:16:55 AM IST</b></h5>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--Border Line-->
