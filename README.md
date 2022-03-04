@@ -44,11 +44,11 @@
 <h2>⚡ Recent Activities</h2>
 
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#2](https://github.com/VinuXD/Thirukkural-Bot/pull/2) in [VinuXD/Thirukkural-Bot](https://github.com/VinuXD/Thirukkural-Bot)
-2. 🔱 Forked [VinuXD/ProjectFizilion](https://github.com/VinuXD/ProjectFizilion) from [SkyLab-Devs/ProjectFizilion](https://github.com/SkyLab-Devs/ProjectFizilion)
-3. 🎉 Merged PR [#1](https://github.com/VinuXD/readme-stats/pull/1) in [VinuXD/readme-stats](https://github.com/VinuXD/readme-stats)
-4. 🔱 Forked [VinuXD/readme-stats](https://github.com/VinuXD/readme-stats) from [adityaprasad502/readme-stats](https://github.com/adityaprasad502/readme-stats)
-5. 📔 Created new repository [VinuXD/Thirukkural-Bot-Web](https://github.com/VinuXD/Thirukkural-Bot-Web)
+1. 🎉 Merged PR [#2](https://github.com/VinuXD/readme-stats/pull/2) in [VinuXD/readme-stats](https://github.com/VinuXD/readme-stats)
+2. 🎉 Merged PR [#2](https://github.com/VinuXD/Thirukkural-Bot/pull/2) in [VinuXD/Thirukkural-Bot](https://github.com/VinuXD/Thirukkural-Bot)
+3. 🔱 Forked [VinuXD/ProjectFizilion](https://github.com/VinuXD/ProjectFizilion) from [SkyLab-Devs/ProjectFizilion](https://github.com/SkyLab-Devs/ProjectFizilion)
+4. 🎉 Merged PR [#1](https://github.com/VinuXD/readme-stats/pull/1) in [VinuXD/readme-stats](https://github.com/VinuXD/readme-stats)
+5. 🔱 Forked [VinuXD/readme-stats](https://github.com/VinuXD/readme-stats) from [adityaprasad502/readme-stats](https://github.com/adityaprasad502/readme-stats)
 <!--RECENT_ACTIVITY:end-->
 
 <!--Border Line-->
@@ -153,7 +153,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 <!--Border Line-->
 
 <!--RECENT_ACTIVITY:last_update-->
-<h5 align="center">Last refresh: <b>Friday, March 4th, 2022, 12:15:15 AM IST</b></h5>
+<h5 align="center">Last refresh: <b>Friday, March 4th, 2022, 12:20:23 PM IST</b></h5>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <!--Border Line-->
