@@ -132,7 +132,7 @@ Makefile                 1 repo              █░░░░░░░░░░�
 <h3 align="center">🎈 Funfact</h3>
 <p align="center">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝In Windows 98, minimized windows are actually moved far away outside the average monitor’s resolution.❞</i>
+<i>❝According to a survey, most of the apps in your android device leaks your data, so be aware.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </p>
 <!--Funfact end-->
