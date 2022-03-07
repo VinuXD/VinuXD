@@ -1,23 +1,25 @@
 <h2 align="center"><bold>Hi 👋 I'm <a href="https://vinuxd.github.io">VINU</a> !</bold></h2>
 
-An **Electrical Engineering Student** from India with a passion in **programming**. <br/> For more details ⬇
+An **Electrical Engineering Student** from India with a passion in **programming**.
+<br/> <br/> For more details ⬇
 
-<a href="https://VinuXD.github.io"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
+<a href="https://VinuXD.github.io"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge"></a>
 
 ---
 
 ## My Tech Stacks
 
+**Languages**
+
 <div class="languages">
 
-**Languages**:
 <img alt="C" width="30px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" >
 <img alt="java" width="30px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png">
 <img alt="python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 
 </div>
 
-**Tools**:
+**Tools**
 
 <div class="tools">
 <img alt="spring" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
@@ -27,7 +29,7 @@ An **Electrical Engineering Student** from India with a passion in **programming
 
 </div>
 
-**Cloud**:
+**Cloud**
 
 <div class="cloud">
 <img alt="heroku" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/heroku.png" />
@@ -35,7 +37,7 @@ An **Electrical Engineering Student** from India with a passion in **programming
 <img alt="railway" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/railway.png" />
 </div>
 
-**Code Editors**:
+**Code Editors**
 
 <div class="editors">
 <img alt="vscode" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/vscode.png" />
@@ -43,7 +45,7 @@ An **Electrical Engineering Student** from India with a passion in **programming
 <img alt="sublime" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/sublime.png" />
 </div>
 
-**Others**:
+**Others**
 
 <div class="others">
 <img alt="termux" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/termux.png" />
@@ -175,6 +177,8 @@ Makefile                 1 repo              █░░░░░░░░░░�
 <div align="center" class="third">
 <a href="https://VinuXD.github.io"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 <div>
+
+> :star: If you liked my README :)
 
 ---
 
