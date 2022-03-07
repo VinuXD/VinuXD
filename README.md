@@ -14,26 +14,27 @@
 
 #### **Tools**:
 
-<div class="something">
+<div class="tools">
 <img alt="spring" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
 <img alt="firebase" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img alt="mongodb" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/13443d3f720a111b37eb6593be0081c32f367fc0/assets/mongodb.png" />
+<img alt="mongodb" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/mongodb.png" />
+<img alt="maven" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/maven.png" />
+
 </div>
 
 #### **Code Editors**:
 
 <div class="editors">
-<img alt="vscode" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/13443d3f720a111b37eb6593be0081c32f367fc0/assets/vscode.png" />
-<img alt="android-studio" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/13443d3f720a111b37eb6593be0081c32f367fc0/assets/androidstudio.png" />
-<img alt="sublime" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/13443d3f720a111b37eb6593be0081c32f367fc0/assets/sublime.png" />
+<img alt="vscode" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/vscode.png" />
+<img alt="android-studio" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/androidstudio.png" />
+<img alt="sublime" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/sublime.png" />
 </div>
 
 #### **Cloud**:
 
-<img alt="heroku" width="30px" src="./assets/heroku.svg" />
-<img alt="netlify" width="30px" src="./assets/netlify.svg" />
-<img alt="vercel" width="30px" src="./" />
-<img alt="railway" width="30px" src="" />
+<img alt="heroku" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/heroku.png" />
+<img alt="netlify" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/netlify.png" />
+<img alt="railway" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/railway.png" />
 
 ---
 
