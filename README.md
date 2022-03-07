@@ -176,11 +176,18 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 <div align="center" class="third">
 <a href="https://VinuXD.github.io"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
-<div>
-
-> :star: If you liked my README :)
+</div>
 
 ---
+
+```java
+public class Github {
+    if(user.isStared())
+      System.out.print("Thanks!");
+    else
+      System.out.print("💩");
+}
+```
 
 <!--RECENT_ACTIVITY:last_update-->
 <h5 align="center">Last refresh: <b>Monday, March 7th, 2022, 12:20:30 PM IST</b></h5>
