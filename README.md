@@ -17,36 +17,25 @@
 <div class="something">
 <img alt="spring" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
 <img alt="firebase" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img alt="mongodb" width="30px" class="filter-green" src="https://raw.githubusercontent.com/VinuXD/VinuXD/13443d3f720a111b37eb6593be0081c32f367fc0/assets/mongodb.svg" />
+<img alt="mongodb" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/13443d3f720a111b37eb6593be0081c32f367fc0/assets/mongodb.png" />
 </div>
 
-#### **Code Editor**:
+#### **Code Editors**:
 
 <div class="editors">
-<img alt="vscode" width="30px" src="./assets/mongodb.svg" />
+<img alt="vscode" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/13443d3f720a111b37eb6593be0081c32f367fc0/assets/vscode.png" />
+<img alt="android-studio" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/13443d3f720a111b37eb6593be0081c32f367fc0/assets/androidstudio.png" />
+<img alt="sublime" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/13443d3f720a111b37eb6593be0081c32f367fc0/assets/sublime.png" />
 </div>
-<img alt="heroku" width="30px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be9ee8/topics/c/c.png" />
-<img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
-<img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
-<img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
-<img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat-square&logo=Gradle&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=flat-square&logo=android-studio&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=flat-square&logo=spotify&logoColor=white)
-![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=flat-square&logo=microsoft-access&logoColor=white)
+#### **Cloud**:
+
+<img alt="heroku" width="30px" src="./assets/heroku.svg" />
+<img alt="netlify" width="30px" src="./assets/netlify.svg" />
+<img alt="vercel" width="30px" src="./" />
+<img alt="railway" width="30px" src="" />
+
+---
 
 <details>
 <summary>:zap: Github Stats</summary>
