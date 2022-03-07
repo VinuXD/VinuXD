@@ -1,6 +1,8 @@
 <h2 align="center"><bold>Hi 👋 I'm <a href="https://vinuxd.github.io">VINU</a> !</bold></h2>
 
-## 💻 Tech Stack
+---
+
+## My Tech Stack
 
 #### **Languages**:
 
@@ -20,6 +22,14 @@
 
 </div>
 
+#### **Cloud**:
+
+<div class="cloud">
+<img alt="heroku" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/heroku.png" />
+<img alt="netlify" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/netlify.png" />
+<img alt="railway" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/railway.png" />
+</div>
+
 #### **Code Editors**:
 
 <div class="editors">
@@ -28,13 +38,12 @@
 <img alt="sublime" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/sublime.png" />
 </div>
 
-#### **Cloud**:
+#### **Others**:
 
-<div class="cloud">
-<img alt="heroku" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/heroku.png" />
-<img alt="netlify" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/netlify.png" />
-<img alt="railway" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/railway.png" />
-</div>
+<div class="others">
+<img alt="termux" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/termux.png" />
+<img alt="lightroon" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/lightroom.png" />
+<img alt="excel" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/excel.png" />
 
 ---
 
@@ -132,19 +141,21 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-## 🎈 Funfact
+## Funfact
 
-<p align="center">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The original Halo was 3rd person and designed for Mac. In 2000 Microsoft bought Bungie and made it an exclusive for the original Xbox.❞</i>
-<!--ENDS_HERE_QUOTE_README-->
-</p>
 
-## 🎙 Now Playing
+<i>❝The original Halo was 3rd person and designed for Mac. In 2000 Microsoft bought Bungie and made it an exclusive for the original Xbox.❞</i>
+
+<!--ENDS_HERE_QUOTE_README-->
+
+---
+
+## Spotify Playing
 
 [![SPOTIFY](https://spotifyxd.vercel.app/api/spotify?background_color=000000&border_color=00ff7f)](https://open.spotify.com/user/31a2knpxmuez2uo44wigmbqxjapy?si=ORyXsvpDQy6DNbodyG10lA)
 
-## 💁🏻‍♂️ Connect with me
+## Connect with me
 
 - [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VinuXD) <br/>
 - [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinuvarsath3@gmail.com) <br/>
