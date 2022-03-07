@@ -2,11 +2,30 @@
 
 <h3 align="center"><bold>A Hobby Dev from India.</bold></h3>
 
----
-
 ## 💻 Tech Stack
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
+#### **Languages**:
+
+<div class="languages"> 
+<img alt="C" width="30px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" >
+<img alt="java" width="30px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png">
+<img alt="python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"> 
+</div>
+
+#### **Tools**:
+
+<div class="something">
+<img alt="spring" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
+<img alt="firebase" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+<img alt="mongodb" width="30px" src="https://www.apache.org/" />
+</div>
+<img align="left" alt="mongodb" width="30px" src="https://github.com/VinuXD/VinuXD/blob/master/assets/mongodb.svg" />
+<img align="left" alt="heroku" width="30px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be9ee8/topics/c/c.png" />
+<img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
+<img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
+<img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
+<img align="left" alt="C" width="30px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" />
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=flat-square&logo=Gradle&logoColor=white)
@@ -67,11 +86,11 @@
 
 ## 💁🏻‍♂️ Connect with me
 
-- [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VinuXD) <br/>
-- [![Mail](https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinuvarsath3@gmail.com) <br/>
-- [![Blog](https://img.shields.io/badge/Blogs-black?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/VinuXD) <br/>
+- [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VinuXD) <br/>
+- [![Mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vinuvarsath3@gmail.com) <br/>
+- [![Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/VinuXD) <br/>
 - [![StackoverFlow](https://img.shields.io/badge/StackOverFlow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/17960559/vinuxd) <br/>
-- [![Website](https://img.shields.io/badge/Website-informational?style=for-the-badge&logo=next.js&logoColor=white)](https://VinuXD.github.io) <br/>
+- [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://VinuXD.github.io) <br/>
 
 ---
 
