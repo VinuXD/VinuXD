@@ -1,7 +1,5 @@
 <h2 align="center"><bold>Hi 👋 I'm <a href="https://vinuxd.github.io">VINU</a> !</bold></h2>
 
-<h3 align="center"><bold>A Hobby Dev from India.</bold></h3>
-
 ## 💻 Tech Stack
 
 #### **Languages**:
@@ -16,9 +14,9 @@
 
 <div class="tools">
 <img alt="spring" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
+<img alt="maven" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/maven.png" />
 <img alt="firebase" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
 <img alt="mongodb" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/mongodb.png" />
-<img alt="maven" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/maven.png" />
 
 </div>
 
@@ -32,9 +30,11 @@
 
 #### **Cloud**:
 
+<div class="cloud">
 <img alt="heroku" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/heroku.png" />
 <img alt="netlify" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/netlify.png" />
 <img alt="railway" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/railway.png" />
+</div>
 
 ---
 
@@ -64,72 +64,71 @@
 ## 👨🏻‍💻 Coding Metrics
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time%20since%2021/1/2022-120%20hrs%2019%20mins-blue?style=plastic&logo=Codepen)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-63%20Thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
 > 🏆 379 Contributions in the Year 2022
- > 
-> 📦 28.2 kB Used in GitHub's Storage 
- > 
-> 📜 16 Public Repositories 
- > 
-> 🔑 10 Private Repositories  
- > 
-**🥰 I'm an Early 🐤** 
+>
+> 📦 28.2 kB Used in GitHub's Storage
+>
+> 📜 16 Public Repositories
+>
+> 🔑 10 Private Repositories
+>
+> **🥰 I'm an Early 🐤**
 
 ```text
-🌞 Morning    117 commits    █████░░░░░░░░░░░░░░░░░░░░   22.29% 
-🌆 Daytime    173 commits    ████████░░░░░░░░░░░░░░░░░   32.95% 
-🌃 Evening    235 commits    ███████████░░░░░░░░░░░░░░   44.76% 
+🌞 Morning    117 commits    █████░░░░░░░░░░░░░░░░░░░░   22.29%
+🌆 Daytime    173 commits    ████████░░░░░░░░░░░░░░░░░   32.95%
+🌃 Evening    235 commits    ███████████░░░░░░░░░░░░░░   44.76%
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
-📅 **I'm Most Productive on Saturday** 
+
+📅 **I'm Most Productive on Saturday**
 
 ```text
-Monday       38 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.24% 
-Tuesday      68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.95% 
-Wednesday    72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.71% 
-Thursday     50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
-Friday       92 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.52% 
-Saturday     120 commits    █████░░░░░░░░░░░░░░░░░░░░   22.86% 
+Monday       38 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.24%
+Tuesday      68 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.95%
+Wednesday    72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.71%
+Thursday     50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.52%
+Friday       92 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.52%
+Saturday     120 commits    █████░░░░░░░░░░░░░░░░░░░░   22.86%
 Sunday       85 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.19%
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Kolkata
 
-💬 Programming Languages: 
-Java                     7 hrs 5 mins        █████████████████░░░░░░░░   71.4% 
-Markdown                 55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.36% 
-JavaScript               54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.2% 
-YAML                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.56% 
+💬 Programming Languages:
+Java                     7 hrs 5 mins        █████████████████░░░░░░░░   71.4%
+Markdown                 55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.36%
+JavaScript               54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.2%
+YAML                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.56%
 JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.24%
 
-🔥 Editors: 
+🔥 Editors:
 VS Code                  9 hrs 56 mins       █████████████████████████   100.0%
 
-💻 Operating System: 
+💻 Operating System:
 Windows                  9 hrs 56 mins       █████████████████████████   100.0%
 ```
 
-**🧑‍💻 I Mostly Code in Java** 
+**🧑‍💻 I Mostly Code in Java**
 
 ```text
-Java                     8 repos             ███████████░░░░░░░░░░░░░░   44.44% 
-Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Java                     8 repos             ███████████░░░░░░░░░░░░░░   44.44%
+Python                   3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67%
+CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
+JavaScript               2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11%
 Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
 ```
-
-
 
 <!--END_SECTION:waka-->
 
