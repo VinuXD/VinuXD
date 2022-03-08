@@ -49,7 +49,6 @@ An **Electrical Engineering Student** from India with a passion in **programming
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-
 1. 💪 Opened PR [#89](https://github.com/SINTEF-9012/JArduino/pull/89) in [SINTEF-9012/JArduino](https://github.com/SINTEF-9012/JArduino)
 2. 🔱 Forked [VinuXD/JArduino](https://github.com/VinuXD/JArduino) from [SINTEF-9012/JArduino](https://github.com/SINTEF-9012/JArduino)
 3. 📔 Created new repository [VinuXD/EchoBot-Example](https://github.com/VinuXD/EchoBot-Example)
@@ -172,5 +171,5 @@ public class Github {
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<h5 align="center">Last refresh: <b>Tuesday, March 8th, 2022, 12:20:15 PM IST</b></h5>
+<h5 align="center">Lastly Updated On: <b>Tuesday, March 8th, 2022, 6:38:24 PM IST</b></h5>
 <!--RECENT_ACTIVITY:last_update_end-->
