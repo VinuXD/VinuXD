@@ -1,8 +1,8 @@
-<h2 align="center"><bold>Hi 👋 I'm <a href="https://vinuxd.github.io">VINU</a> !</bold></h2>
+[![banner](https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/banner.png)](https://vinuxd.github.io)
 
-[![banner](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/banner.png)](https://vinuxd.github.io)
+## **Hi 👋 I'm [VINU](https://vinuxd.github.io) !**
 
-An **Electrical Engineering Student** from India with a passion in **programming**.
+An **Electrical Engineering Student** from India with a passion in **programming** and **computers**.
 <br/> <br/> For more details ⬇
 
 <a href="https://VinuXD.github.io"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge"></a>
@@ -183,7 +183,9 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ## Funfact
 
 <!--STARTS_HERE_QUOTE_README-->
+
 <i>❝The first ever hard disk drive was made in 1979, and could hold only 5MB of data.❞</i>
+
 <!--ENDS_HERE_QUOTE_README-->
 
 ---
