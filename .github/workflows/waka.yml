@@ -2,7 +2,7 @@ name: Wakatime Metrics
 
 on:
   schedule:
-    - cron: '22 13 * * *'
+    - cron: "22 13 * * *"
   workflow_dispatch:
 jobs:
   update-readme:
