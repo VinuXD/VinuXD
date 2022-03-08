@@ -11,24 +11,24 @@ An **Electrical Engineering Student** from India with a passion in **programming
 
 ## My Tech Stack
 
-<div class="lang">
+<div class="langs">
 
-<img alt="C" width="30px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" >
-<img alt="java" width="30px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png">
-<img alt="python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img alt="spring" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
-<img alt="maven" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/maven.png" />
-<img alt="firebase" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img alt="mongodb" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/mongodb.png" />
-<img alt="heroku" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/heroku.png" />
-<img alt="netlify" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/netlify.png" />
-<img alt="railway" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/railway.png" />
-<img alt="vscode" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/vscode.png" />
-<img alt="android-studio" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/androidstudio.png" />
-<img alt="sublime" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/sublime.png" />
-<img alt="termux" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/termux.png" />
-<img alt="lightroon" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/lightroom.png" />
-<img alt="excel" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/excel.png" />
+<img alt="C" width="35px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" >
+<img alt="java" width="35px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png">
+<img alt="python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<img alt="spring" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
+<img alt="maven" width="35px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/maven.png" />
+<img alt="firebase" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
+<img alt="mongodb" width="35px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/mongodb.png" />
+<img alt="heroku" width="35px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/heroku.png" />
+<img alt="netlify" width="35px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/netlify.png" />
+<img alt="railway" width="35px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/railway.png" />
+<img alt="vscode" width="35px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/vscode.png" />
+<img alt="android-studio" width="35px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/androidstudio.png" />
+<img alt="sublime" width="35px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/sublime.png" />
+<img alt="termux" width="35px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/termux.png" />
+<img alt="lightroon" width="35px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/lightroom.png" />
+<img alt="excel" width="35px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/excel.png" />
 
 </div>
 
@@ -157,17 +157,6 @@ Makefile                 1 repo              █░░░░░░░░░░�
 <div align="center" class="third">
 <a href="https://VinuXD.github.io"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"></a>
 </div>
-
----
-
-```java
-public class Github {
-    if(user.isStared())
-      System.out.print("Thanks!");
-    else
-      System.out.print("💩");
-}
-```
 
 ---
 
