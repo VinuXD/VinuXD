@@ -32,52 +32,6 @@ An **Electrical Engineering Student** from India with a passion in **programming
 
 </div>
 
-<!--
-**Languages**
-
-<div class="languages">
-
-<img alt="C" width="30px" src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" >
-<img alt="java" width="30px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png">
-<img alt="python" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-
-</div>
-
-**Tools**
-
-<div class="tools">
-<img alt="spring" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
-<img alt="maven" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/maven.png" />
-<img alt="firebase" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" />
-<img alt="mongodb" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/mongodb.png" />
-
-</div>
-
-**Cloud**
-
-<div class="cloud">
-<img alt="heroku" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/heroku.png" />
-<img alt="netlify" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/netlify.png" />
-<img alt="railway" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/railway.png" />
-</div>
-
-**Code Editors**
-
-<div class="editors">
-<img alt="vscode" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/vscode.png" />
-<img alt="android-studio" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/androidstudio.png" />
-<img alt="sublime" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/sublime.png" />
-</div>
-
-**Others**
-
-<div class="others">
-<img alt="termux" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/termux.png" />
-<img alt="lightroon" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/lightroom.png" />
-<img alt="excel" width="30px" src="https://raw.githubusercontent.com/VinuXD/VinuXD/master/assets/excel.png" />
-
--->
-
 ---
 
 <details>
@@ -95,6 +49,7 @@ An **Electrical Engineering Student** from India with a passion in **programming
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
+
 1. 💪 Opened PR [#89](https://github.com/SINTEF-9012/JArduino/pull/89) in [SINTEF-9012/JArduino](https://github.com/SINTEF-9012/JArduino)
 2. 🔱 Forked [VinuXD/JArduino](https://github.com/VinuXD/JArduino) from [SINTEF-9012/JArduino](https://github.com/SINTEF-9012/JArduino)
 3. 📔 Created new repository [VinuXD/EchoBot-Example](https://github.com/VinuXD/EchoBot-Example)
