@@ -188,8 +188,6 @@ Makefile                 1 repo              █░░░░░░░░░░�
 
 <!--ENDS_HERE_QUOTE_README-->
 
----
-
 ## Connect with me
 
 <div align="center" class="first">
