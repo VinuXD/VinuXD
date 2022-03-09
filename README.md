@@ -59,15 +59,15 @@ An **Electrical Engineering Student** from India with a passion in **programming
 ## Coding Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time%20since%2021/1/2022-120%20hrs%2044%20mins-blue?style=plastic&logo=Codepen)
+![Code Time](http://img.shields.io/badge/Code%20Time%20since%2021/1/2022-121%20hrs%2011%20mins-blue?style=plastic&logo=Codepen)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-63%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 400 Contributions in the Year 2022
+> 🏆 402 Contributions in the Year 2022
  > 
-> 📦 28.3 kB Used in GitHub's Storage 
+> 📦 28.4 kB Used in GitHub's Storage 
  > 
 > 📜 16 Public Repositories 
  > 
@@ -85,10 +85,10 @@ An **Electrical Engineering Student** from India with a passion in **programming
 
 ```text
 Monday       45 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.57% 
-Tuesday      77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.67% 
+Tuesday      79 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.05% 
 Wednesday    72 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.71% 
 Thursday     50 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
-Friday       76 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.48% 
+Friday       74 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.1% 
 Saturday     120 commits    █████░░░░░░░░░░░░░░░░░░░░   22.86% 
 Sunday       85 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.19%
 ```
