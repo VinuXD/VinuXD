@@ -49,11 +49,11 @@ An **Electrical Engineering Student** from India with a passion in **programming
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool)
-2. 💪 Opened PR [#89](https://github.com/SINTEF-9012/JArduino/pull/89) in [SINTEF-9012/JArduino](https://github.com/SINTEF-9012/JArduino)
-3. 🔱 Forked [VinuXD/JArduino](https://github.com/VinuXD/JArduino) from [SINTEF-9012/JArduino](https://github.com/SINTEF-9012/JArduino)
-4. 📔 Created new repository [VinuXD/EchoBot-Example](https://github.com/VinuXD/EchoBot-Example)
-5. 🎉 Merged PR [#2](https://github.com/VinuXD/readme-stats/pull/2) in [VinuXD/readme-stats](https://github.com/VinuXD/readme-stats)
+1. ⭐ Starred [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+2. ⭐ Starred [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool)
+3. 💪 Opened PR [#89](https://github.com/SINTEF-9012/JArduino/pull/89) in [SINTEF-9012/JArduino](https://github.com/SINTEF-9012/JArduino)
+4. 🔱 Forked [VinuXD/JArduino](https://github.com/VinuXD/JArduino) from [SINTEF-9012/JArduino](https://github.com/SINTEF-9012/JArduino)
+5. 📔 Created new repository [VinuXD/EchoBot-Example](https://github.com/VinuXD/EchoBot-Example)
 <!--RECENT_ACTIVITY:end-->
 
 ## Coding Metrics
@@ -157,5 +157,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<h5 align="center">Lastly Updated On: <b>Sunday, March 13th, 2022, 12:21:51 PM IST</b></h5>
+<h5 align="center">Lastly Updated On: <b>Monday, March 14th, 2022, 12:17:33 AM IST</b></h5>
 <!--RECENT_ACTIVITY:last_update_end-->
