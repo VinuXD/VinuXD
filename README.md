@@ -67,7 +67,7 @@ An **Electrical Engineering Student** from India with a passion in **programming
 
 > 🏆 405 Contributions in the Year 2022
  > 
-> 📦 28.8 kB Used in GitHub's Storage 
+> 📦 28.9 kB Used in GitHub's Storage 
  > 
 > 📜 16 Public Repositories 
  > 
