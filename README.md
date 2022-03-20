@@ -49,11 +49,11 @@ An **Electrical Engineering Student** from India with a passion in **programming
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
-2. ⭐ Starred [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool)
-3. 💪 Opened PR [#89](https://github.com/SINTEF-9012/JArduino/pull/89) in [SINTEF-9012/JArduino](https://github.com/SINTEF-9012/JArduino)
-4. 🔱 Forked [VinuXD/JArduino](https://github.com/VinuXD/JArduino) from [SINTEF-9012/JArduino](https://github.com/SINTEF-9012/JArduino)
-5. 📔 Created new repository [VinuXD/EchoBot-Example](https://github.com/VinuXD/EchoBot-Example)
+1. ⭐ Starred [ElijT/Awesome-no-code-tools](https://github.com/ElijT/Awesome-no-code-tools)
+2. ⭐ Starred [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+3. ⭐ Starred [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool)
+4. 💪 Opened PR [#89](https://github.com/SINTEF-9012/JArduino/pull/89) in [SINTEF-9012/JArduino](https://github.com/SINTEF-9012/JArduino)
+5. 🔱 Forked [VinuXD/JArduino](https://github.com/VinuXD/JArduino) from [SINTEF-9012/JArduino](https://github.com/SINTEF-9012/JArduino)
 <!--RECENT_ACTIVITY:end-->
 
 ## Coding Metrics
@@ -153,5 +153,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<h5 align="center">Lastly Updated On: <b>Sunday, March 20th, 2022, 12:19:33 PM IST</b></h5>
+<h5 align="center">Lastly Updated On: <b>Monday, March 21st, 2022, 12:17:58 AM IST</b></h5>
 <!--RECENT_ACTIVITY:last_update_end-->
