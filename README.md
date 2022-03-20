@@ -100,14 +100,13 @@ Sunday       85 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Java                     34 mins             █████████████████████████   100.0% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  34 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  34 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 ```
 
 **🧑‍💻 I Mostly Code in Java** 
