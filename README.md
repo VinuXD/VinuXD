@@ -49,11 +49,11 @@ An **Electrical Engineering Student** from India with a passion in **programming
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [ElijT/Awesome-no-code-tools](https://github.com/ElijT/Awesome-no-code-tools)
-2. ⭐ Starred [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
-3. ⭐ Starred [iBotPeaches/Apktool](https://github.com/iBotPeaches/Apktool)
-4. 💪 Opened PR [#89](https://github.com/SINTEF-9012/JArduino/pull/89) in [SINTEF-9012/JArduino](https://github.com/SINTEF-9012/JArduino)
-5. 🔱 Forked [VinuXD/JArduino](https://github.com/VinuXD/JArduino) from [SINTEF-9012/JArduino](https://github.com/SINTEF-9012/JArduino)
+1. ⭐ Starred [afsalashyana/JavaFX-Tutorial-Codes](https://github.com/afsalashyana/JavaFX-Tutorial-Codes)
+2. ⭐ Starred [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+3. ⭐ Starred [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
+4. ⭐ Starred [ElijT/Awesome-no-code-tools](https://github.com/ElijT/Awesome-no-code-tools)
+5. ⭐ Starred [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
 <!--RECENT_ACTIVITY:end-->
 
 ## Coding Metrics
@@ -153,5 +153,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<h5 align="center">Lastly Updated On: <b>Tuesday, March 22nd, 2022, 12:20:35 PM IST</b></h5>
+<h5 align="center">Lastly Updated On: <b>Wednesday, March 23rd, 2022, 12:19:26 AM IST</b></h5>
 <!--RECENT_ACTIVITY:last_update_end-->
