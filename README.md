@@ -49,11 +49,11 @@ An **Electrical Engineering Student** from India with a passion in **programming
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [afsalashyana/JavaFX-Tutorial-Codes](https://github.com/afsalashyana/JavaFX-Tutorial-Codes)
-2. ⭐ Starred [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-3. ⭐ Starred [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
-4. ⭐ Starred [ElijT/Awesome-no-code-tools](https://github.com/ElijT/Awesome-no-code-tools)
-5. ⭐ Starred [yangshun/tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+1. ⭐ Starred [mhrimaz/AwesomeJavaFX](https://github.com/mhrimaz/AwesomeJavaFX)
+2. ⭐ Starred [akullpp/awesome-java](https://github.com/akullpp/awesome-java)
+3. ⭐ Starred [afsalashyana/JavaFX-Tutorial-Codes](https://github.com/afsalashyana/JavaFX-Tutorial-Codes)
+4. ⭐ Starred [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
+5. ⭐ Starred [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
 <!--RECENT_ACTIVITY:end-->
 
 ## Coding Metrics
@@ -153,5 +153,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<h5 align="center">Lastly Updated On: <b>Saturday, March 26th, 2022, 12:19:51 PM IST</b></h5>
+<h5 align="center">Lastly Updated On: <b>Sunday, March 27th, 2022, 12:18:04 AM IST</b></h5>
 <!--RECENT_ACTIVITY:last_update_end-->
