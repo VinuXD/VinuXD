@@ -49,11 +49,11 @@ An **Electrical Engineering Student** from India with a passion in **programming
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mhrimaz/AwesomeJavaFX](https://github.com/mhrimaz/AwesomeJavaFX)
-2. ⭐ Starred [akullpp/awesome-java](https://github.com/akullpp/awesome-java)
-3. ⭐ Starred [afsalashyana/JavaFX-Tutorial-Codes](https://github.com/afsalashyana/JavaFX-Tutorial-Codes)
-4. ⭐ Starred [Ebazhanov/linkedin-skill-assessments-quizzes](https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes)
-5. ⭐ Starred [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet)
+1. 🔱 Forked [VinuXD/nextra](https://github.com/VinuXD/nextra) from [shuding/nextra](https://github.com/shuding/nextra)
+2. ⭐ Starred [leerob/leerob.io](https://github.com/leerob/leerob.io)
+3. ⭐ Starred [mhrimaz/AwesomeJavaFX](https://github.com/mhrimaz/AwesomeJavaFX)
+4. ⭐ Starred [akullpp/awesome-java](https://github.com/akullpp/awesome-java)
+5. ⭐ Starred [afsalashyana/JavaFX-Tutorial-Codes](https://github.com/afsalashyana/JavaFX-Tutorial-Codes)
 <!--RECENT_ACTIVITY:end-->
 
 ## Coding Metrics
@@ -155,5 +155,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<h5 align="center">Lastly Updated On: <b>Tuesday, March 29th, 2022, 12:21:41 PM IST</b></h5>
+<h5 align="center">Lastly Updated On: <b>Wednesday, March 30th, 2022, 12:20:15 AM IST</b></h5>
 <!--RECENT_ACTIVITY:last_update_end-->
