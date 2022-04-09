@@ -49,11 +49,11 @@ An **Electrical Engineering Student** from India with a passion in **programming
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [DanH957/ATM-Machine](https://github.com/DanH957/ATM-Machine)
-2. ⭐ Starred [Lembed/Awesome-arduino](https://github.com/Lembed/Awesome-arduino)
-3. ⭐ Starred [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
-4. ⭐ Starred [jayarathinavel/thirukkuralApi](https://github.com/jayarathinavel/thirukkuralApi)
-5. 🔱 Forked [VinuXD/nextra](https://github.com/VinuXD/nextra) from [shuding/nextra](https://github.com/shuding/nextra)
+1. ⭐ Starred [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars)
+2. ⭐ Starred [DanH957/ATM-Machine](https://github.com/DanH957/ATM-Machine)
+3. ⭐ Starred [Lembed/Awesome-arduino](https://github.com/Lembed/Awesome-arduino)
+4. ⭐ Starred [kitspace/awesome-electronics](https://github.com/kitspace/awesome-electronics)
+5. ⭐ Starred [jayarathinavel/thirukkuralApi](https://github.com/jayarathinavel/thirukkuralApi)
 <!--RECENT_ACTIVITY:end-->
 
 ## Coding Metrics
@@ -154,5 +154,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<h5 align="center">Lastly Updated On: <b>Saturday, April 9th, 2022, 12:21:09 PM IST</b></h5>
+<h5 align="center">Lastly Updated On: <b>Sunday, April 10th, 2022, 12:19:15 AM IST</b></h5>
 <!--RECENT_ACTIVITY:last_update_end-->
