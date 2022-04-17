@@ -49,11 +49,11 @@ An **Electrical Engineering Student** from India with a passion in **programming
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [k33ptoo/School-Management-System-JavaFX](https://github.com/k33ptoo/School-Management-System-JavaFX)
-2. ⭐ Starred [OSSpk/Library-Management-System-JAVA](https://github.com/OSSpk/Library-Management-System-JAVA)
-3. ⭐ Starred [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)
-4. ⭐ Starred [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars)
-5. ⭐ Starred [DanH957/ATM-Machine](https://github.com/DanH957/ATM-Machine)
+1. ⭐ Starred [react-figma/awesome-figma](https://github.com/react-figma/awesome-figma)
+2. ⭐ Starred [k33ptoo/School-Management-System-JavaFX](https://github.com/k33ptoo/School-Management-System-JavaFX)
+3. ⭐ Starred [OSSpk/Library-Management-System-JAVA](https://github.com/OSSpk/Library-Management-System-JAVA)
+4. ⭐ Starred [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+5. ⭐ Starred [GorvGoyl/Clone-Wars](https://github.com/GorvGoyl/Clone-Wars)
 <!--RECENT_ACTIVITY:end-->
 
 ## Coding Metrics
@@ -154,5 +154,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<h5 align="center">Lastly Updated On: <b>Sunday, April 17th, 2022, 12:20:00 AM IST</b></h5>
+<h5 align="center">Lastly Updated On: <b>Sunday, April 17th, 2022, 12:21:25 PM IST</b></h5>
 <!--RECENT_ACTIVITY:last_update_end-->
