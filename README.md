@@ -49,11 +49,11 @@ An **Electrical Engineering Student** from India with a passion in **programming
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [Bhaviktutorials/shark](https://github.com/Bhaviktutorials/shark)
-2. ⭐ Starred [react-figma/awesome-figma](https://github.com/react-figma/awesome-figma)
-3. ⭐ Starred [k33ptoo/School-Management-System-JavaFX](https://github.com/k33ptoo/School-Management-System-JavaFX)
-4. ⭐ Starred [OSSpk/Library-Management-System-JAVA](https://github.com/OSSpk/Library-Management-System-JAVA)
-5. ⭐ Starred [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+1. ⭐ Starred [imchillin/Anamnesis](https://github.com/imchillin/Anamnesis)
+2. ⭐ Starred [Bhaviktutorials/shark](https://github.com/Bhaviktutorials/shark)
+3. ⭐ Starred [react-figma/awesome-figma](https://github.com/react-figma/awesome-figma)
+4. ⭐ Starred [k33ptoo/School-Management-System-JavaFX](https://github.com/k33ptoo/School-Management-System-JavaFX)
+5. ⭐ Starred [OSSpk/Library-Management-System-JAVA](https://github.com/OSSpk/Library-Management-System-JAVA)
 <!--RECENT_ACTIVITY:end-->
 
 ## Coding Metrics
@@ -154,5 +154,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<h5 align="center">Lastly Updated On: <b>Wednesday, April 20th, 2022, 12:22:16 AM IST</b></h5>
+<h5 align="center">Lastly Updated On: <b>Wednesday, April 20th, 2022, 12:24:09 PM IST</b></h5>
 <!--RECENT_ACTIVITY:last_update_end-->
