@@ -49,11 +49,11 @@ An **Electrical Engineering Student** from India with a passion in **programming
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [remix-run/remix](https://github.com/remix-run/remix)
-2. ⭐ Starred [imchillin/Anamnesis](https://github.com/imchillin/Anamnesis)
-3. ⭐ Starred [Bhaviktutorials/shark](https://github.com/Bhaviktutorials/shark)
-4. ⭐ Starred [react-figma/awesome-figma](https://github.com/react-figma/awesome-figma)
-5. ⭐ Starred [k33ptoo/School-Management-System-JavaFX](https://github.com/k33ptoo/School-Management-System-JavaFX)
+1. ⭐ Starred [withfig/autocomplete](https://github.com/withfig/autocomplete)
+2. ⭐ Starred [remix-run/remix](https://github.com/remix-run/remix)
+3. ⭐ Starred [imchillin/Anamnesis](https://github.com/imchillin/Anamnesis)
+4. ⭐ Starred [Bhaviktutorials/shark](https://github.com/Bhaviktutorials/shark)
+5. ⭐ Starred [react-figma/awesome-figma](https://github.com/react-figma/awesome-figma)
 <!--RECENT_ACTIVITY:end-->
 
 ## Coding Metrics
@@ -154,5 +154,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<h5 align="center">Lastly Updated On: <b>Thursday, April 21st, 2022, 12:25:32 PM IST</b></h5>
+<h5 align="center">Lastly Updated On: <b>Friday, April 22nd, 2022, 12:22:57 AM IST</b></h5>
 <!--RECENT_ACTIVITY:last_update_end-->
