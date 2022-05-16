@@ -65,9 +65,9 @@ An **Electrical Engineering Student** from India with a passion in **programming
 
 **🐱 My GitHub Data** 
 
-> 🏆 2,365 Contributions in the Year 2022
+> 🏆 2,408 Contributions in the Year 2022
  > 
-> 📦 55.2 kB Used in GitHub's Storage 
+> 📦 55.3 kB Used in GitHub's Storage 
  > 
 > 📜 17 Public Repositories 
  > 
@@ -84,11 +84,11 @@ An **Electrical Engineering Student** from India with a passion in **programming
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       51 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.43% 
+Monday       94 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.7% 
 Tuesday      83 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.1% 
 Wednesday    72 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.5% 
-Thursday     81 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.81% 
-Friday       102 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.87% 
+Thursday     52 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.58% 
+Friday       88 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.83% 
 Saturday     154 commits    █████░░░░░░░░░░░░░░░░░░░░   22.45% 
 Sunday       143 commits    █████░░░░░░░░░░░░░░░░░░░░   20.85%
 ```
