@@ -1,23 +1,15 @@
-## 👋 I'm [VINU](https://vinuxd.github.io) :D
+# 👋 I'm [VINU](https://vinuxd.github.io) :D
 
-An **DEEE** Student from India.
-<br/><br/>
+An **DEEE** Student from India with a passion in electronics and microcontrollers.
+<br/>
 
 [![Tech Stack](https://skillicons.dev/icons?i=c,java,py,spring,md,regex,arduino,raspberrypi,firebase,mongodb,git,heroku,netlify,androidstudio,vscode,figma,&theme=dark&perline=7)](https://t.me/VinuXD)
 
----
-
-<details>
-<summary>:zap: Github Stats</summary>
-</br>
 <p align="center"><a href=https://vinuxd.me><img src="https://github-readme-stats.vercel.app/api?username=vinuxd&hide=issues&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/></a></p>
-</details>
 
-<details>
-<summary>:zap: Github Streaks</summary>
- </br>
 <p align="center"><a href=https://vinuxd.me><img src="http://github-readme-streak-stats.herokuapp.com?user=vinuxd&theme=chartreuse-dark&hide_border=false&date_format=j%20M%5B%20Y%5D"/></a></p>
-</details>
+
+---
 
 ## Recent Activities
 
