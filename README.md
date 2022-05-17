@@ -1,13 +1,13 @@
 # 👋 I'm [VINU](https://vinuxd.github.io) :D
 
-An **DEEE** Student from India with a passion in electronics and microcontrollers.
+An **D.E.E.E** Student from India with a passion in electronics and microcontrollers.
 <br/>
 
 [![Tech Stack](https://skillicons.dev/icons?i=c,java,py,spring,md,regex,arduino,raspberrypi,firebase,mongodb,git,heroku,netlify,androidstudio,vscode,figma,&theme=dark&perline=7)](https://t.me/VinuXD)
 
-<p align="center"><a href=https://vinuxd.me><img src="https://github-readme-stats.vercel.app/api?username=vinuxd&hide=issues&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/></a></p>
+<a href=https://vinuxd.me><img src="https://github-readme-stats.vercel.app/api?username=vinuxd&hide=issues&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/></a>
 
-<p align="center"><a href=https://vinuxd.me><img src="http://github-readme-streak-stats.herokuapp.com?user=vinuxd&theme=chartreuse-dark&hide_border=false&date_format=j%20M%5B%20Y%5D"/></a></p>
+<a href=https://vinuxd.me><img src="http://github-readme-streak-stats.herokuapp.com?user=vinuxd&theme=chartreuse-dark&hide_border=false&date_format=j%20M%5B%20Y%5D"/></a>
 
 ---
 
@@ -92,7 +92,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 ## Spotify Playing
 
-[![SPOTIFY](https://spotifyxd.vercel.app/api/spotify?background_color=000000&border_color=00ff7f)](https://open.spotify.com/user/31a2knpxmuez2uo44wigmbqxjapy?si=ORyXsvpDQy6DNbodyG10lA)
+[![Spotify](https://spotifyxd.vercel.app/api/spotify?background_color=000000&border_color=00ff7f)](https://open.spotify.com/user/31a2knpxmuez2uo44wigmbqxjapy?si=ORyXsvpDQy6DNbodyG10lA)
 
 ## Funfact
 
