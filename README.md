@@ -14,11 +14,11 @@ An **D.E.E.E** Student from India with a passion in electronics and microcontrol
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
-2. ⭐ Starred [ajaymnk/open-electronics](https://github.com/ajaymnk/open-electronics)
-3. ⭐ Starred [robertoostenveld/arduino](https://github.com/robertoostenveld/arduino)
-4. ⭐ Starred [exscape/electronics](https://github.com/exscape/electronics)
-5. ✌️ Released [MaterialTheme-VinuXD](https://github.com/VinuXD/MaterialTheme-WA/releases/tag/VinuXD) in [VinuXD/MaterialTheme-WA](https://github.com/VinuXD/MaterialTheme-WA)
+1. ⭐ Starred [VinuXD/Thirukkural-Bot](https://github.com/VinuXD/Thirukkural-Bot)
+2. ⭐ Starred [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
+3. ⭐ Starred [ajaymnk/open-electronics](https://github.com/ajaymnk/open-electronics)
+4. ⭐ Starred [robertoostenveld/arduino](https://github.com/robertoostenveld/arduino)
+5. ⭐ Starred [exscape/electronics](https://github.com/exscape/electronics)
 <!--RECENT_ACTIVITY:end-->
 
 ## Coding Metrics
@@ -119,5 +119,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<h5 align="center">Lastly Updated On: <b>Wednesday, May 25th, 2022, 12:23:57 AM IST</b></h5>
+<h5 align="center">Lastly Updated On: <b>Wednesday, May 25th, 2022, 12:25:01 PM IST</b></h5>
 <!--RECENT_ACTIVITY:last_update_end-->
