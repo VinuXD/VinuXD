@@ -30,9 +30,9 @@ An **D.E.E.E** Student from India with a passion in electronics and microcontrol
 
 **🐱 My GitHub Data** 
 
-> 🏆 2,738 Contributions in the Year 2022
+> 🏆 2,783 Contributions in the Year 2022
  > 
-> 📦 55.2 kB Used in GitHub's Storage 
+> 📦 55.3 kB Used in GitHub's Storage 
  > 
 > 📜 17 Public Repositories 
  > 
@@ -49,11 +49,11 @@ An **D.E.E.E** Student from India with a passion in electronics and microcontrol
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       51 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.43% 
+Monday       96 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.99% 
 Tuesday      86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.54% 
 Wednesday    72 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.5% 
-Thursday     67 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.77% 
-Friday       129 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.8% 
+Thursday     52 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.58% 
+Friday       99 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.43% 
 Saturday     151 commits    █████░░░░░░░░░░░░░░░░░░░░   22.01% 
 Sunday       130 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.95%
 ```
