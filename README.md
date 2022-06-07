@@ -14,11 +14,11 @@ An **D.E.E.E** Student from India with a passion in electronics and microcontrol
 ## Recent Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
-2. ⭐ Starred [VinuXD/Thirukkural-Bot](https://github.com/VinuXD/Thirukkural-Bot)
-3. ⭐ Starred [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile)
-4. ⭐ Starred [ajaymnk/open-electronics](https://github.com/ajaymnk/open-electronics)
-5. ⭐ Starred [robertoostenveld/arduino](https://github.com/robertoostenveld/arduino)
+1. ⬆️ Pushed 1 commit(s) to [VinuXD/VinuXD](https://github.com/VinuXD/VinuXD)
+2. ⬆️ Pushed 1 commit(s) to [VinuXD/VinuXD](https://github.com/VinuXD/VinuXD)
+3. ⬆️ Pushed 1 commit(s) to [VinuXD/VinuXD](https://github.com/VinuXD/VinuXD)
+4. ⬆️ Pushed 1 commit(s) to [VinuXD/VinuXD](https://github.com/VinuXD/VinuXD)
+5. ⬆️ Pushed 1 commit(s) to [VinuXD/VinuXD](https://github.com/VinuXD/VinuXD)
 <!--RECENT_ACTIVITY:end-->
 
 ## Coding Metrics
@@ -119,5 +119,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<h5 align="center">Lastly Updated On: <b>Tuesday, June 7th, 2022, 12:21:59 PM IST</b></h5>
+<h5 align="center">Lastly Updated On: <b>Wednesday, June 8th, 2022, 12:19:31 AM IST</b></h5>
 <!--RECENT_ACTIVITY:last_update_end-->
