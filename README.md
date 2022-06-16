@@ -11,17 +11,7 @@ An **D.E.E.E** Student from India with a passion in electronics and microcontrol
 
 ---
 
-## Recent Activities
-
-<!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [VinuXD/VinuXD](https://github.com/VinuXD/VinuXD)
-2. ⬆️ Pushed 1 commit(s) to [VinuXD/VinuXD](https://github.com/VinuXD/VinuXD)
-3. ⬆️ Pushed 1 commit(s) to [VinuXD/VinuXD](https://github.com/VinuXD/VinuXD)
-4. ⬆️ Pushed 1 commit(s) to [VinuXD/VinuXD](https://github.com/VinuXD/VinuXD)
-5. ⬆️ Pushed 1 commit(s) to [VinuXD/VinuXD](https://github.com/VinuXD/VinuXD)
-<!--RECENT_ACTIVITY:end-->
-
-## Coding Metrics
+## Github Metrics
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time%20since%2021/1/2022-124%20hrs%2029%20mins-blue?style=plastic&logo=Codepen)
