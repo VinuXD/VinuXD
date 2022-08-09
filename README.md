@@ -54,9 +54,6 @@ Sunday       108 commits    ████░░░░░░░░░░░░░�
 ```text
 ⌚︎ Time Zone: Asia/Kolkata
 
-💬 Programming Languages: 
-No Activity Tracked This Week
-
 🔥 Editors: 
 No Activity Tracked This Week
 
