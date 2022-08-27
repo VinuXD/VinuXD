@@ -9,6 +9,10 @@ An **D.E.E.E** Student from India with a passion in electronics and microcontrol
 
 <a href=https://vinuxd.me><img src="http://github-readme-streak-stats.herokuapp.com?user=vinuxd&theme=chartreuse-dark&hide_border=false&date_format=j%20M%5B%20Y%5D"/></a>
 
+
+<!--RECENT_ACTIVITY:start-->
+
+<!--RECENT_ACTIVITY:end-->
 ---
 
 ## Github Metrics
