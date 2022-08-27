@@ -9,7 +9,7 @@ An **D.E.E.E** Student from India with a passion in electronics and microcontrol
 
 <a href=https://vinuxd.me><img src="http://github-readme-streak-stats.herokuapp.com?user=vinuxd&theme=chartreuse-dark&hide_border=false&date_format=j%20M%5B%20Y%5D"/></a>
 
-
+## Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [witnessmenow/Universal-Arduino-Telegram-Bot](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot)
 2. ⭐ Starred [Giv314/MCalendar](https://github.com/Giv314/MCalendar)
