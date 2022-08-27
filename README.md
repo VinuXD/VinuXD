@@ -11,7 +11,11 @@ An **D.E.E.E** Student from India with a passion in electronics and microcontrol
 
 
 <!--RECENT_ACTIVITY:start-->
-
+1. ⬆️ Pushed 1 commit(s) to [VinuXD/VinuXD](https://github.com/VinuXD/VinuXD)
+2. ⭐ Starred [witnessmenow/Universal-Arduino-Telegram-Bot](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot)
+3. ⭐ Starred [Giv314/MCalendar](https://github.com/Giv314/MCalendar)
+4. ⭐ Starred [Gianbacchio/ESP8266-TelegramBot](https://github.com/Gianbacchio/ESP8266-TelegramBot)
+5. ⬆️ Pushed 1 commit(s) to [VinuXD/VinuXD](https://github.com/VinuXD/VinuXD)
 <!--RECENT_ACTIVITY:end-->
 ---
 
@@ -113,5 +117,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<h5 align="center">Lastly Updated On: <b>Thursday, June 16th, 2022, 12:21:30 PM IST</b></h5>
+<h5 align="center">Lastly Updated On: <b>Saturday, August 27th, 2022, 1:25:28 PM IST</b></h5>
 <!--RECENT_ACTIVITY:last_update_end-->
