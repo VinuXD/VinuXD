@@ -28,9 +28,9 @@ An **D.E.E.E** Student from India with a passion in electronics and microcontrol
 
 **🐱 My GitHub Data** 
 
-> 🏆 4,017 Contributions in the Year 2022
+> 🏆 4,020 Contributions in the Year 2022
  > 
-> 📦 55.6 kB Used in GitHub's Storage 
+> 📦 55.7 kB Used in GitHub's Storage 
  > 
 > 📜 18 Public Repositories 
  > 
@@ -39,8 +39,8 @@ An **D.E.E.E** Student from India with a passion in electronics and microcontrol
 **👻 I'm a Night 🦉** 
 
 ```text
-🌞 Morning    137 commits    █████░░░░░░░░░░░░░░░░░░░░   19.68% 
-🌆 Daytime    206 commits    ███████░░░░░░░░░░░░░░░░░░   29.6% 
+🌞 Morning    134 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.25% 
+🌆 Daytime    209 commits    ███████░░░░░░░░░░░░░░░░░░   30.03% 
 🌃 Evening    353 commits    ████████████░░░░░░░░░░░░░   50.72% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
