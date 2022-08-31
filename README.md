@@ -30,7 +30,7 @@ An **D.E.E.E** Student from India with a passion in electronics and microcontrol
 
 > 🏆 4,020 Contributions in the Year 2022
  > 
-> 📦 55.7 kB Used in GitHub's Storage 
+> 📦 55.6 kB Used in GitHub's Storage 
  > 
 > 📜 18 Public Repositories 
  > 
