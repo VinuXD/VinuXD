@@ -11,11 +11,11 @@ An **D.E.E.E** Student from India with a passion in electronics and microcontrol
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [witnessmenow/Universal-Arduino-Telegram-Bot](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot)
-2. ⭐ Starred [Giv314/MCalendar](https://github.com/Giv314/MCalendar)
-3. ⭐ Starred [Gianbacchio/ESP8266-TelegramBot](https://github.com/Gianbacchio/ESP8266-TelegramBot)
-4. 📔 Created new repository [VinuXD/Anti-Sleep-Alarm](https://github.com/VinuXD/Anti-Sleep-Alarm)
-5. ⭐ Starred [VinuXD/VinuXD](https://github.com/VinuXD/VinuXD)
+1. ⭐ Starred [CasaJasmina/TelegramBot-Library](https://github.com/CasaJasmina/TelegramBot-Library)
+2. ⭐ Starred [witnessmenow/Universal-Arduino-Telegram-Bot](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot)
+3. ⭐ Starred [Giv314/MCalendar](https://github.com/Giv314/MCalendar)
+4. ⭐ Starred [Gianbacchio/ESP8266-TelegramBot](https://github.com/Gianbacchio/ESP8266-TelegramBot)
+5. 📔 Created new repository [VinuXD/Anti-Sleep-Alarm](https://github.com/VinuXD/Anti-Sleep-Alarm)
 <!--RECENT_ACTIVITY:end-->
 ---
 
@@ -117,5 +117,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<h5 align="center">Lastly Updated On: <b>Sunday, September 4th, 2022, 12:22:53 PM IST</b></h5>
+<h5 align="center">Lastly Updated On: <b>Monday, September 5th, 2022, 12:21:47 AM IST</b></h5>
 <!--RECENT_ACTIVITY:last_update_end-->
