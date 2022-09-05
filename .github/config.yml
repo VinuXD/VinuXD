@@ -5,7 +5,6 @@ settings:
   max_lines: 5
   disabled_events:
     - "issues"
-    - "comments"
     - "push"
   date:
     timezone: "Asia/Kolkata"
