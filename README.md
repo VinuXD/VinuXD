@@ -22,13 +22,13 @@ An **D.E.E.E** Student from India with a passion in electronics and microcontrol
 ## Github Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time%20since%2021/1/2022-0%20secs-blue?style=plastic&logo=Codepen)
+![Code Time](http://img.shields.io/badge/Code%20Time%20since%2021/1/2022-125%20hrs%2056%20mins-blue?style=plastic&logo=Codepen)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-219%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 4,020 Contributions in the Year 2022
+> 🏆 4,021 Contributions in the Year 2022
  > 
 > 📦 55.6 kB Used in GitHub's Storage 
  > 
@@ -39,20 +39,20 @@ An **D.E.E.E** Student from India with a passion in electronics and microcontrol
 **👻 I'm a Night 🦉** 
 
 ```text
-🌞 Morning    134 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.25% 
+🌞 Morning    133 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.11% 
 🌆 Daytime    209 commits    ███████░░░░░░░░░░░░░░░░░░   30.03% 
-🌃 Evening    353 commits    ████████████░░░░░░░░░░░░░   50.72% 
+🌃 Evening    354 commits    ████████████░░░░░░░░░░░░░   50.86% 
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday       52 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.47% 
+Monday       53 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.61% 
 Tuesday      86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.36% 
 Wednesday    72 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.34% 
 Thursday     87 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
 Friday       132 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.97% 
-Saturday     159 commits    █████░░░░░░░░░░░░░░░░░░░░   22.84% 
+Saturday     158 commits    █████░░░░░░░░░░░░░░░░░░░░   22.7% 
 Sunday       108 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.52%
 ```
 
