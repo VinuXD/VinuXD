@@ -11,11 +11,11 @@ An **D.E.E.E** Student from India with a passion in electronics and microcontrol
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#257](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot/issues/257#issuecomment-1241952392) in [witnessmenow/Universal-Arduino-Telegram-Bot](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot)
-2. ⭐ Starred [CasaJasmina/TelegramBot-Library](https://github.com/CasaJasmina/TelegramBot-Library)
-3. ⭐ Starred [witnessmenow/Universal-Arduino-Telegram-Bot](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot)
-4. ⭐ Starred [Giv314/MCalendar](https://github.com/Giv314/MCalendar)
-5. ⭐ Starred [Gianbacchio/ESP8266-TelegramBot](https://github.com/Gianbacchio/ESP8266-TelegramBot)
+1. ⭐ Starred [MTK911/Attiny85](https://github.com/MTK911/Attiny85)
+2. 💬 Commented on [#257](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot/issues/257#issuecomment-1241952392) in [witnessmenow/Universal-Arduino-Telegram-Bot](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot)
+3. ⭐ Starred [CasaJasmina/TelegramBot-Library](https://github.com/CasaJasmina/TelegramBot-Library)
+4. ⭐ Starred [witnessmenow/Universal-Arduino-Telegram-Bot](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot)
+5. ⭐ Starred [Giv314/MCalendar](https://github.com/Giv314/MCalendar)
 <!--RECENT_ACTIVITY:end-->
 ---
 
@@ -117,5 +117,5 @@ TypeScript               1 repo              █░░░░░░░░░░�
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<h5 align="center">Lastly Updated On: <b>Sunday, September 11th, 2022, 12:26:19 PM IST</b></h5>
+<h5 align="center">Lastly Updated On: <b>Monday, September 12th, 2022, 12:24:14 AM IST</b></h5>
 <!--RECENT_ACTIVITY:last_update_end-->
