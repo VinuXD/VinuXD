@@ -30,7 +30,7 @@ An **D.E.E.E** Student from India with a passion in electronics and microcontrol
 
 > 🏆 4,021 Contributions in the Year 2022
  > 
-> 📦 55.6 kB Used in GitHub's Storage 
+> 📦 55.7 kB Used in GitHub's Storage 
  > 
 > 📜 18 Public Repositories 
  > 
@@ -63,13 +63,13 @@ Sunday       108 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      3 hrs 39 mins       █████████████████████████   100.0%
+C++                      1 hr 49 mins        █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  3 hrs 39 mins       █████████████████████████   100.0%
+VS Code                  1 hr 49 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  3 hrs 39 mins       █████████████████████████   100.0%
+Windows                  1 hr 49 mins        █████████████████████████   100.0%
 ```
 
 **🧑‍💻 I Mostly Code in Java** 
