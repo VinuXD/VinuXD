@@ -22,7 +22,7 @@ An **D.E.E.E** Student from India with a passion in electronics and microcontrol
 ## Github Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time%20since%2021/1/2022-130%20hrs%2057%20mins-blue?style=plastic&logo=Codepen)
+![Code Time](http://img.shields.io/badge/Code%20Time%20since%2021/1/2022-131%20hrs%2040%20mins-blue?style=plastic&logo=Codepen)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-219%20Thousand%20lines%20of%20code-blue)
 
@@ -63,13 +63,13 @@ Sunday       108 commits    ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-C++                      1 hr 26 mins        █████████████████████████   100.0%
+C++                      31 mins             █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  1 hr 26 mins        █████████████████████████   100.0%
+VS Code                  31 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  1 hr 26 mins        █████████████████████████   100.0%
+Windows                  31 mins             █████████████████████████   100.0%
 ```
 
 **🧑‍💻 I Mostly Code in Java** 
