@@ -11,11 +11,11 @@ An **D.E.E.E** Student from India with a passion in electronics and microcontrol
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [VinuXD/MotionDetection-PIR](https://github.com/VinuXD/MotionDetection-PIR)
-2. ⭐ Starred [MTK911/Attiny85](https://github.com/MTK911/Attiny85)
-3. 💬 Commented on [#257](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot/issues/257#issuecomment-1241952392) in [witnessmenow/Universal-Arduino-Telegram-Bot](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot)
-4. ⭐ Starred [CasaJasmina/TelegramBot-Library](https://github.com/CasaJasmina/TelegramBot-Library)
-5. ⭐ Starred [witnessmenow/Universal-Arduino-Telegram-Bot](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot)
+1. ⭐ Starred [mattiasjahnke/arduino-projects](https://github.com/mattiasjahnke/arduino-projects)
+2. 📔 Created new repository [VinuXD/MotionDetection-PIR](https://github.com/VinuXD/MotionDetection-PIR)
+3. ⭐ Starred [MTK911/Attiny85](https://github.com/MTK911/Attiny85)
+4. 💬 Commented on [#257](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot/issues/257#issuecomment-1241952392) in [witnessmenow/Universal-Arduino-Telegram-Bot](https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot)
+5. ⭐ Starred [CasaJasmina/TelegramBot-Library](https://github.com/CasaJasmina/TelegramBot-Library)
 <!--RECENT_ACTIVITY:end-->
 ---
 
@@ -120,5 +120,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<h5 align="center">Lastly Updated On: <b>Wednesday, October 5th, 2022, 12:47:08 PM IST</b></h5>
+<h5 align="center">Lastly Updated On: <b>Thursday, October 6th, 2022, 12:35:32 AM IST</b></h5>
 <!--RECENT_ACTIVITY:last_update_end-->
