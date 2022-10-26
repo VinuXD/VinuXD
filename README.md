@@ -22,7 +22,7 @@ An **D.E.E.E** Student from India with a passion in electronics and microcontrol
 ## Github Metrics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time%20since%2021/1/2022-145%20hrs%2041%20mins-blue?style=plastic&logo=Codepen)
+![Code Time](http://img.shields.io/badge/Code%20Time%20since%2021/1/2022-146%20hrs%2057%20mins-blue?style=plastic&logo=Codepen)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-219%20Thousand%20lines%20of%20code-blue)
 
@@ -30,7 +30,7 @@ An **D.E.E.E** Student from India with a passion in electronics and microcontrol
 
 > 🏆 4,036 Contributions in the Year 2022
  > 
-> 📦 55.9 kB Used in GitHub's Storage 
+> 📦 55.8 kB Used in GitHub's Storage 
  > 
 > 📜 20 Public Repositories 
  > 
