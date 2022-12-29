@@ -11,11 +11,11 @@ An **D.E.E.E** Student from India with a passion in electronics and microcontrol
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🎉 Merged PR [#4](https://github.com/VinuXD/readme-stats/pull/4) in [VinuXD/readme-stats](https://github.com/VinuXD/readme-stats)
-2. ⭐ Starred [VinuXD/Arduino](https://github.com/VinuXD/Arduino)
-3. 📔 Created new repository [VinuXD/Arduino](https://github.com/VinuXD/Arduino)
-4. ⭐ Starred [mattiasjahnke/arduino-projects](https://github.com/mattiasjahnke/arduino-projects)
-5. 📔 Created new repository [VinuXD/MotionDetection-PIR](https://github.com/VinuXD/MotionDetection-PIR)
+1. ⭐ Starred [mfrashad/text2art](https://github.com/mfrashad/text2art)
+2. 🎉 Merged PR [#4](https://github.com/VinuXD/readme-stats/pull/4) in [VinuXD/readme-stats](https://github.com/VinuXD/readme-stats)
+3. ⭐ Starred [VinuXD/Arduino](https://github.com/VinuXD/Arduino)
+4. 📔 Created new repository [VinuXD/Arduino](https://github.com/VinuXD/Arduino)
+5. ⭐ Starred [mattiasjahnke/arduino-projects](https://github.com/mattiasjahnke/arduino-projects)
 <!--RECENT_ACTIVITY:end-->
 ---
 
@@ -117,5 +117,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<h5 align="center">Lastly Updated On: <b>Thursday, December 29th, 2022, 12:14:59 AM IST</b></h5>
+<h5 align="center">Lastly Updated On: <b>Thursday, December 29th, 2022, 12:14:54 PM IST</b></h5>
 <!--RECENT_ACTIVITY:last_update_end-->
