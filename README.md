@@ -28,7 +28,7 @@ An **D.E.E.E** Student from India with a passion in electronics and microcontrol
 
 **🐱 My GitHub Data** 
 
-> 🏆 4,042 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2023
  > 
 > 📦 55.9 kB Used in GitHub's Storage 
  > 
