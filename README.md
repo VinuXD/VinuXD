@@ -28,11 +28,11 @@ An **D.E.E.E** Student from India with a passion in electronics and microcontrol
 
 **🐱 My GitHub Data** 
 
-> 🏆 0 Contributions in the Year 2023
+> 🏆 1 Contributions in the Year 2023
  > 
 > 📦 55.9 kB Used in GitHub's Storage 
  > 
-> 📜 20 Public Repositories 
+> 📜 21 Public Repositories 
  > 
 > 🔑 19 Private Repositories  
  > 
