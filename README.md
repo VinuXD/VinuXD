@@ -22,13 +22,13 @@ An **D.E.E.E** Student from India with a passion in electronics and microcontrol
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time%20since%2021/1/2022-158%20hrs%2013%20mins-blue?style=plastic&logo=Codepen)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-220%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-219%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 3 Contributions in the Year 2023
  > 
-> 📦 55.9 kB Used in GitHub's Storage 
+> 📦 56.0 kB Used in GitHub's Storage 
  > 
 > 📜 21 Public Repositories 
  > 
