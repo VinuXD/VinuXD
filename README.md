@@ -28,7 +28,7 @@ An **D.E.E.E** Student from India with a passion in electronics and microcontrol
 
 > 🏆 3 Contributions in the Year 2023
  > 
-> 📦 56.0 kB Used in GitHub's Storage 
+> 📦 55.9 kB Used in GitHub's Storage 
  > 
 > 📜 21 Public Repositories 
  > 
