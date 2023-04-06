@@ -11,7 +11,6 @@ An **D.E.E.E** Student from India with a passion in electronics and microcontrol
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 🔱 Forked [VinuXD/Arduino-1](https://github.com/VinuXD/Arduino-1) from [esp8266/Arduino](https://github.com/esp8266/Arduino)<br>
 <!--RECENT_ACTIVITY:end-->
 ---
 
@@ -113,5 +112,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<h5 align="center">Lastly Updated On: <b>Thursday, April 6th, 2023, 12:15:06 AM IST</b></h5>
+<h5 align="center">Lastly Updated On: <b>Thursday, April 6th, 2023, 12:15:02 PM IST</b></h5>
 <!--RECENT_ACTIVITY:last_update_end-->
