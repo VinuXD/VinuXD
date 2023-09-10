@@ -11,7 +11,6 @@ An **D.E.E.E** Student from India with a passion in electronics and microcontrol
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [mateustoin/Roadmap-to-Embedded-Engineering](https://github.com/mateustoin/Roadmap-to-Embedded-Engineering)<br>
 <!--RECENT_ACTIVITY:end-->
 ---
 
@@ -113,5 +112,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<h5 align="center">Lastly Updated On: <b>Sunday, September 10th, 2023, 12:15:09 AM IST</b></h5>
+<h5 align="center">Lastly Updated On: <b>Sunday, September 10th, 2023, 12:15:08 PM IST</b></h5>
 <!--RECENT_ACTIVITY:last_update_end-->
