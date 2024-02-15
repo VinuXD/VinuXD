@@ -1,6 +1,6 @@
 # 👋 I'm [VINU](https://vinuxd.github.io) :D
 
-An **D.E.E.E** Student from India with a passion in electronics and microcontrollers.
+A tech enthusiast with a background in Electrical and Electronics Engineering and passionate on Embedded Systems and DSA.
 <br/>
 
 [![Tech Stack](https://skillicons.dev/icons?i=c,java,py,spring,md,regex,arduino,raspberrypi,firebase,mongodb,git,heroku,netlify,androidstudio,vscode,figma,&theme=dark&perline=7)](https://t.me/VinuXD)
