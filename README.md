@@ -11,7 +11,8 @@ A tech enthusiast with a background in Electrical and Electronics Engineering an
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [VinuXD/Batch-Scripts](https://github.com/VinuXD/Batch-Scripts)<br>
+1. ⭐ Starred [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN)<br>
+2. 📔 Created new repository [VinuXD/Batch-Scripts](https://github.com/VinuXD/Batch-Scripts)<br>
 <!--RECENT_ACTIVITY:end-->
 ---
 
@@ -113,5 +114,5 @@ Makefile                 1 repo              █░░░░░░░░░░�
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<h5 align="center">Lastly Updated On: <b>Thursday, March 14th, 2024, 12:14:57 PM IST</b></h5>
+<h5 align="center">Lastly Updated On: <b>Friday, March 15th, 2024, 12:14:55 AM IST</b></h5>
 <!--RECENT_ACTIVITY:last_update_end-->
