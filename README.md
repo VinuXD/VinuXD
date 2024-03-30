@@ -7,6 +7,7 @@
 ## 👨🏻‍💻 Tech Stack
 
 **Need help on your projects that matches my skills?**
+
 **Feel free to reach me out on [Telegram](https://t.me/VinuXD).**
 
 ![Tech Stack](https://skillicons.dev/icons?i=arduino,autocad,aws,bash,c,devto,firebase,git,github,githubactions,heroku,html,java,linux,md,mongodb,netlify,obsidian,powershell,py,raspberrypi,redhat,redis,regex,spring,supabase,vercel,vscode&theme=dark&perline=8)
@@ -17,23 +18,28 @@
 
 <a href=https://vinuxd.me><img src="https://github-readme-stats.vercel.app/api?username=vinuxd&hide=issues&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/></a>
 
-## Recent Activity
+## 💻 Latest Activities
+
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN)<br>
 2. 📔 Created new repository [VinuXD/Batch-Scripts](https://github.com/VinuXD/Batch-Scripts)<br>
 <!--RECENT_ACTIVITY:end-->
 
+<!-- 
+
 ## Spotify Playing
 
 [![Spotify](https://spotifyxd.vercel.app/api/spotify?background_color=000000&border_color=00ff7f)](https://open.spotify.com/user/31a2knpxmuez2uo44wigmbqxjapy?si=ORyXsvpDQy6DNbodyG10lA)
 
-## Funfact
+-->
+
+## 🎨 Funfact
 
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝The computer in your cell phone today is million times cheaper and a thousands times more powerful and about a hundred thousands times smaller than the one computer at MIT in 1965.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
-## Connect with me
+## 🔗 Connect with me
 
 <div align="center" class="first">
 <a href="https://t.me/VinuXD"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
