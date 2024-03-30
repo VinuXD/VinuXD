@@ -34,18 +34,16 @@
 
 <!-- Icons downloaded from https://icons8.com> -->
 
-<a href="https://t.me/VinuXD" class="padded"><img align="left" alt="Telegram" width="35px" src="assets/telegram.png" /></a> 
+<a href="https://t.me/VinuXD" class="padded"><img align="left" alt="Telegram" width="38px" src="assets/telegram.png" /></a> 
 
-<a href="https://twitter.com/Vinuxde" class="padded"><img align="left" alt="X" width="35px" src="assets/x.png" /></a> 
+<a href="https://twitter.com/Vinuxde" class="padded"><img align="left" alt="X" width="38px" src="assets/x.png" /></a> 
 
-<a href="mailto:vinuvarsath.s@proton.me" class="padded"><img align="left" alt="Mail" width="35px" src="assets/mail.png" /></a> 
+<a href="mailto:vinuvarsath.s@proton.me" class="padded"><img align="left" alt="Mail" width="38px" src="assets/mail.png" /></a> 
 
-<a href="https://www.chess.com/member/vinuxde" class="padded"><img align="left" alt="Chess.com" width="35px" src="assets/chess.png" /></a> 
+<a href="https://www.chess.com/member/vinuxde" class="padded"><img align="left" alt="Chess.com" width="38px" src="assets/chess.png" /></a> 
 
-<a href="https://vinuxd.github.io" class="padded"><img align="left" alt="Web" width="35px" src="assets/web.png"></a> 
+<a href="https://vinuxd.github.io" class="padded"><img align="left" alt="Web" width="38px" src="assets/web.png"></a> 
 
-</br>
-</br>
 </br>
 
 ---
