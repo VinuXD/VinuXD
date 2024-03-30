@@ -1,6 +1,6 @@
 [![banner](assets/banner.png)](https://vinuxd.github.io)
 
-**Fueled by caffeine and code ®**
+**Powered by Caffeine and Code ®**
 
 *Unlocking the potential hidden within every tech challenge by writing one line of code at a time.*
 
@@ -9,13 +9,13 @@
 **Need help on your projects that matches my skills?**
 **Feel free to reach me out on [Telegram](https://t.me/VinuXD).**
 
-![Tech Stack](https://skillicons.dev/icons?i=arduino,autocad,aws,bash,c,devto,firebase,git,github,githubactions,heroku,html,java,linux,md,mongodb,netlify,obsidian,powershell,py,raspberrypi,redhat,redis,regex,spring,supabase,vercel,vscode&theme=dark&perline=8)
+[![Tech Stack](https://skillicons.dev/icons?i=arduino,autocad,aws,bash,c,devto,firebase,git,github,githubactions,heroku,html,java,linux,md,mongodb,netlify,obsidian,powershell,py,raspberrypi,redhat,redis,regex,spring,supabase,vercel,vscode&theme=dark&perline=8)](https://github.com/VinuXD?tab=repositories)
 
 ## 📈 Github Metrics
 
-<a href=https://vinuxd.me><img src="http://github-readme-streak-stats.herokuapp.com?user=vinuxd&theme=chartreuse-dark&hide_border=false&date_format=j%20M%5B%20Y%5D"/></a>
+[![Streak](http://github-readme-streak-stats.herokuapp.com?user=vinuxd&theme=chartreuse-dark&hide_border=false&date_format=j%20M%5B%20Y%5D)](https://vinuxd.github.io)
 
-<a href=https://vinuxd.me><img src="https://github-readme-stats.vercel.app/api?username=vinuxd&hide=issues&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/></a>
+[![Stats](https://github-readme-stats.vercel.app/api?username=vinuxd&hide=issues&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true)](https://vinuxd.github.io)
 
 ## 💻 Latest Activities
 
