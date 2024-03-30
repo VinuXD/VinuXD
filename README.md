@@ -1,13 +1,20 @@
-# 👋 I'm [VINU](https://vinuxd.github.io) :D
+![banner](assets/banner.png)
 
-A tech enthusiast with a background in Electrical and Electronics Engineering and passionate on Embedded Systems and DSA.
-<br/>
+> A passionate Tech enthusiast and a Hobby developer with a background in Electronics Engineering.
 
-[![Tech Stack](https://skillicons.dev/icons?i=c,java,py,spring,md,regex,arduino,raspberrypi,firebase,mongodb,git,heroku,netlify,androidstudio,vscode,figma,&theme=dark&perline=7)](https://t.me/VinuXD)
+## 👨🏻‍💻 Tech Stack
 
-<a href=https://vinuxd.me><img src="https://github-readme-stats.vercel.app/api?username=vinuxd&hide=issues&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/></a>
+Need help on your projects that matches my skills?
+</br>
+Feel free to reach me out on [Telegram](https://t.me/VinuXD).
+
+![Tech Stack](https://skillicons.dev/icons?i=arduino,autocad,aws,bash,c,devto,firebase,git,github,githubactions,heroku,html,java,linux,md,mongodb,netlify,obsidian,powershell,py,raspberrypi,redhat,redis,regex,spring,supabase,vercel,vscode&theme=dark&perline=7)
+
+## 📈 Github Stats
 
 <a href=https://vinuxd.me><img src="http://github-readme-streak-stats.herokuapp.com?user=vinuxd&theme=chartreuse-dark&hide_border=false&date_format=j%20M%5B%20Y%5D"/></a>
+
+<a href=https://vinuxd.me><img src="https://github-readme-stats.vercel.app/api?username=vinuxd&hide=issues&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/></a>
 
 ## Recent Activity
 <!--RECENT_ACTIVITY:start-->
