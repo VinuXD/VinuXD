@@ -36,6 +36,11 @@ Feel free to reach me out on [Telegram](https://t.me/VinuXD).**
 
 <a href="https://t.me/VinuXD" class="padded"><img align="left" alt="Telegram" width="47px" src="assets/telegram.png" /></a> 
 
+<a href="https://twitter.com/Vinuxde" class="padded"><img align="left" alt="X" width="47px" src="assets/x.png" /></a> 
+
+<a href="mailto:vinuvarsath.s@proton.me" class="padded"><img align="left" alt="Mail" width="47px" src="assets/mail.png" /></a> 
+
+</br>
 
 
 <!--RECENT_ACTIVITY:last_update-->
