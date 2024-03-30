@@ -6,8 +6,8 @@
 
 ## 👨🏻‍💻 Tech Stack
 
-**Need help on your projects that matches my skills?
-Feel free to reach me out on [Telegram](https://t.me/VinuXD).**
+**Need help on your projects that matches my skills?**
+**Feel free to reach me out on [Telegram](https://t.me/VinuXD).**
 
 ![Tech Stack](https://skillicons.dev/icons?i=arduino,autocad,aws,bash,c,devto,firebase,git,github,githubactions,heroku,html,java,linux,md,mongodb,netlify,obsidian,powershell,py,raspberrypi,redhat,redis,regex,spring,supabase,vercel,vscode&theme=dark&perline=8)
 
@@ -40,8 +40,15 @@ Feel free to reach me out on [Telegram](https://t.me/VinuXD).**
 
 <a href="mailto:vinuvarsath.s@proton.me" class="padded"><img align="left" alt="Mail" width="47px" src="assets/mail.png" /></a> 
 
+<a href="https://www.chess.com/member/vinuxde" class="padded"><img align="left" alt="Chess.com" width="47px" src="assets/chess.png" /></a> 
+
+<a href="https://vinuxd.github.io" class="padded"><img align="left" alt="Web" width="47px" src="assets/web.png"></a> 
+
+</br>
+</br>
 </br>
 
+---
 
 <!--RECENT_ACTIVITY:last_update-->
 <h5 align="center">Lastly Updated On: <b>Saturday, March 30th, 2024, 12:15:13 PM IST</b></h5>
