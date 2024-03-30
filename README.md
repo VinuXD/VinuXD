@@ -1,6 +1,8 @@
 ![banner](assets/banner.png)
 
-```A passionate Tech enthusiast and a Hobby developer with a background in Electronics Engineering.```
+**Fueled by caffeine and code.**
+
+*Unlocking the potential hidden within every tech challenge by writing one line of code at a time.*
 
 ## 👨🏻‍💻 Tech Stack
 
@@ -9,7 +11,7 @@
 
 ![Tech Stack](https://skillicons.dev/icons?i=arduino,autocad,aws,bash,c,devto,firebase,git,github,githubactions,heroku,html,java,linux,md,mongodb,netlify,obsidian,powershell,py,raspberrypi,redhat,redis,regex,spring,supabase,vercel,vscode&theme=dark&perline=8)
 
-## 📈 Github Stats
+## 📈 Github Metrics
 
 <a href=https://vinuxd.me><img src="http://github-readme-streak-stats.herokuapp.com?user=vinuxd&theme=chartreuse-dark&hide_border=false&date_format=j%20M%5B%20Y%5D"/></a>
 
@@ -20,76 +22,6 @@
 1. ⭐ Starred [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN)<br>
 2. 📔 Created new repository [VinuXD/Batch-Scripts](https://github.com/VinuXD/Batch-Scripts)<br>
 <!--RECENT_ACTIVITY:end-->
----
-
-## Github Metrics
-
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time%20since%2021/1/2022-158%20hrs%2013%20mins-blue?style=plastic&logo=Codepen)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-220%20Thousand%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 15 Contributions in the Year 2023
- > 
-> 📦 57.3 kB Used in GitHub's Storage 
- > 
-> 📜 23 Public Repositories 
- > 
-> 🔑 20 Private Repositories  
- > 
-**🥰 I'm an Early 🐤** 
-
-```text
-🌞 Morning    80 commits     ██████░░░░░░░░░░░░░░░░░░░   26.14% 
-🌆 Daytime    106 commits    ████████░░░░░░░░░░░░░░░░░   34.64% 
-🌃 Evening    120 commits    █████████░░░░░░░░░░░░░░░░   39.22% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday       21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.86% 
-Tuesday      59 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.28% 
-Wednesday    66 commits     █████░░░░░░░░░░░░░░░░░░░░   21.57% 
-Thursday     15 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.9% 
-Friday       34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Saturday     81 commits     ██████░░░░░░░░░░░░░░░░░░░   26.47% 
-Sunday       30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.8%
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
-**🧑‍💻 I Mostly Code in Java** 
-
-```text
-Java                     9 repos             ████████░░░░░░░░░░░░░░░░░   32.14% 
-JavaScript               4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-C++                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-Python                   3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
-CSS                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-Makefile                 1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   3.57%
-```
-
-
-
-<!--END_SECTION:waka-->
 
 ## Spotify Playing
 
