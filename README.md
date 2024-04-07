@@ -19,8 +19,8 @@
 ## 💻 Latest Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN)<br>
-2. 📔 Created new repository [VinuXD/Batch-Scripts](https://github.com/VinuXD/Batch-Scripts)<br>
+1. ⭐ Starred [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)<br>
+2. ⭐ Starred [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 🎨 Funfact
@@ -48,7 +48,7 @@
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<h5 align="center">Lastly Updated On: <b>Saturday, April 6th, 2024, 5:45:52 PM IST</b></h5>
+<h5 align="center">Lastly Updated On: <b>Sunday, April 7th, 2024, 5:45:27 PM IST</b></h5>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
