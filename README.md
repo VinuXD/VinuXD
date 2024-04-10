@@ -19,9 +19,10 @@
 ## 💻 Latest Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. 💬 Commented on [#157](https://github.com/Datalux/Osintgram/issues/157#issuecomment-2046932888) in [Datalux/Osintgram](https://github.com/Datalux/Osintgram)<br>
-2. ⭐ Starred [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)<br>
-3. ⭐ Starred [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN)<br>
+1. ⭐ Starred [rajesh-s/computer-architecture-and-systems-resources](https://github.com/rajesh-s/computer-architecture-and-systems-resources)<br>
+2. 💬 Commented on [#157](https://github.com/Datalux/Osintgram/issues/157#issuecomment-2046932888) in [Datalux/Osintgram](https://github.com/Datalux/Osintgram)<br>
+3. ⭐ Starred [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)<br>
+4. ⭐ Starred [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 🎨 Funfact
@@ -49,7 +50,7 @@
 ---
 
 <!--RECENT_ACTIVITY:last_update-->
-<h5 align="center">Lastly Updated On: <b>Wednesday, April 10th, 2024, 2:23:03 PM IST</b></h5>
+<h5 align="center">Lastly Updated On: <b>Wednesday, April 10th, 2024, 5:47:10 PM IST</b></h5>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 
