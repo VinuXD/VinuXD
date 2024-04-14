@@ -19,7 +19,6 @@ _Unlocking the potential hidden within every tech challenge by writing - one lin
 ## 💻 Latest Activities
 
 <!--RECENT_ACTIVITY:start-->
-
 1. ⭐ Starred [resume/resume.github.com](https://github.com/resume/resume.github.com)<br>
 2. ⭐ Starred [rajesh-s/computer-architecture-and-systems-resources](https://github.com/rajesh-s/computer-architecture-and-systems-resources)<br>
 3. 💬 Commented on [#157](https://github.com/Datalux/Osintgram/issues/157#issuecomment-2046932888) in [Datalux/Osintgram](https://github.com/Datalux/Osintgram)<br>
