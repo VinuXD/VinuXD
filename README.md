@@ -19,11 +19,11 @@ _Unlocking the potential hidden within every tech challenge by writing - one lin
 ## 💻 Latest Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [resume/resume.github.com](https://github.com/resume/resume.github.com)<br>
-2. ⭐ Starred [rajesh-s/computer-architecture-and-systems-resources](https://github.com/rajesh-s/computer-architecture-and-systems-resources)<br>
-3. 💬 Commented on [#157](https://github.com/Datalux/Osintgram/issues/157#issuecomment-2046932888) in [Datalux/Osintgram](https://github.com/Datalux/Osintgram)<br>
-4. ⭐ Starred [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)<br>
-5. ⭐ Starred [0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN)<br>
+1. ⭐ Starred [luijait/DarkGPT](https://github.com/luijait/DarkGPT)<br>
+2. ⭐ Starred [resume/resume.github.com](https://github.com/resume/resume.github.com)<br>
+3. ⭐ Starred [rajesh-s/computer-architecture-and-systems-resources](https://github.com/rajesh-s/computer-architecture-and-systems-resources)<br>
+4. 💬 Commented on [#157](https://github.com/Datalux/Osintgram/issues/157#issuecomment-2046932888) in [Datalux/Osintgram](https://github.com/Datalux/Osintgram)<br>
+5. ⭐ Starred [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 🎨 Funfact
