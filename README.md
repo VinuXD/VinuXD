@@ -29,7 +29,7 @@ _Unlocking the potential hidden within every tech challenge by writing - one lin
 ## 🎨 Funfact
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝CPU manufacturing is so unpredictable that every chip must be tested since the majority of finished chips are defective. Those that survive are assigned a model number and price reflecting their maximum safe performance.❞</i>
+<i>❝There are around  3.58 billion internet users worldwide as of 2017 according to statista.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ## 🔗 Connect with me
