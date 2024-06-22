@@ -29,7 +29,7 @@ _Unlocking the potential hidden within every tech challenge by writing - one lin
 ## 🎨 Funfact
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝Gaming computers heat a room just as efficiently as a space heater does.❞</i>
+<i>❝The Space Shuttle never flew on new year’s day or eve because its computers couldn’t handle a year rollover.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ## 🔗 Connect with me
