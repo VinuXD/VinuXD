@@ -19,11 +19,11 @@ _Unlocking the potential hidden within every tech challenge by writing - one lin
 ## 💻 Latest Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [luijait/DarkGPT](https://github.com/luijait/DarkGPT)<br>
-2. ⭐ Starred [resume/resume.github.com](https://github.com/resume/resume.github.com)<br>
-3. ⭐ Starred [rajesh-s/computer-architecture-and-systems-resources](https://github.com/rajesh-s/computer-architecture-and-systems-resources)<br>
-4. 💬 Commented on [#157](https://github.com/Datalux/Osintgram/issues/157#issuecomment-2046932888) in [Datalux/Osintgram](https://github.com/Datalux/Osintgram)<br>
-5. ⭐ Starred [tiimgreen/github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet)<br>
+1. ⭐ Starred [TakSec/google-dorks-bug-bounty](https://github.com/TakSec/google-dorks-bug-bounty)<br>
+2. ⭐ Starred [luijait/DarkGPT](https://github.com/luijait/DarkGPT)<br>
+3. ⭐ Starred [resume/resume.github.com](https://github.com/resume/resume.github.com)<br>
+4. ⭐ Starred [rajesh-s/computer-architecture-and-systems-resources](https://github.com/rajesh-s/computer-architecture-and-systems-resources)<br>
+5. 💬 Commented on [#157](https://github.com/Datalux/Osintgram/issues/157#issuecomment-2046932888) in [Datalux/Osintgram](https://github.com/Datalux/Osintgram)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 🎨 Funfact
