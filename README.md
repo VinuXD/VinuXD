@@ -21,7 +21,6 @@ _Unlocking the potential hidden within every tech challenge by writing - one lin
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [TakSec/google-dorks-bug-bounty](https://github.com/TakSec/google-dorks-bug-bounty)<br>
 2. ⭐ Starred [luijait/DarkGPT](https://github.com/luijait/DarkGPT)<br>
-3. ⭐ Starred [resume/resume.github.com](https://github.com/resume/resume.github.com)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 🎨 Funfact
