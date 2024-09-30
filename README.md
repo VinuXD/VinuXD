@@ -19,7 +19,6 @@ _Unlocking the potential hidden within every tech challenge by writing - one lin
 ## 💻 Latest Activities
 
 <!--RECENT_ACTIVITY:start-->
-1. ⭐ Starred [TakSec/google-dorks-bug-bounty](https://github.com/TakSec/google-dorks-bug-bounty)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 🎨 Funfact
