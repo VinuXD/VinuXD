@@ -24,7 +24,7 @@ _Unlocking the potential hidden within every tech challenge by writing - one lin
 ## 🎨 Funfact
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The computer in your cell phone today is million times cheaper and a thousands times more powerful and about a hundred thousands times smaller than the one computer at MIT in 1965.❞</i>
+<i>❝One of the first instances of a stored computer program was in 1801 when Joseph Marie Jacquard demonstrated a loom that wove fabrics based on hole-punched cards that were fed into the machine.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ## 🔗 Connect with me
