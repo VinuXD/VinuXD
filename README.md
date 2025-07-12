@@ -24,7 +24,7 @@ _Unlocking the potential hidden within every tech challenge by writing - one lin
 ## 🎨 Funfact
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝There are around  3.58 billion internet users worldwide as of 2017 according to statista.❞</i>
+<i>❝Windows 95 was the second most installed piece of software on computers in 1995, video game DOOM was first.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ## 🔗 Connect with me
