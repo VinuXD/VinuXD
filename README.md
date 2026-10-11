@@ -24,7 +24,7 @@ _Unlocking the potential hidden within every tech challenge by writing - one lin
 ## 🎨 Funfact
 
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝In 2005, Sony illegally installed rootkits on 22 million computers to prevent the users from ripping copyrighted music, and could not be uninstalled. It also reported user’s listening habits back to Sony. Ironically, the code itself contained open source software, and so infringed copyright.❞</i>
+<i>❝There are around  3.58 billion internet users worldwide as of 2017 according to statista.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
 ## 🔗 Connect with me
