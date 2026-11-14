@@ -35,7 +35,7 @@ _Unlocking the potential hidden within every tech challenge by writing - one lin
 
 <a href="https://twitter.com/Vinuxde" class="padded"><img align="left" alt="X" width="38px" src="assets/x.png" /></a>
 
-<a href="mailto:vinuvarsath.s@proton.me" class="padded"><img align="left" alt="Mail" width="38px" src="assets/mail.png" /></a>
+<a href="mailto: vinuvarsath3@gmail.com" class="padded"><img align="left" alt="Mail" width="38px" src="assets/mail.png" /></a>
 
 <a href="https://www.chess.com/member/vinuxde" class="padded"><img align="left" alt="Chess.com" width="38px" src="assets/chess.png" /></a>
 
