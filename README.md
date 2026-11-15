@@ -19,6 +19,7 @@ _Unlocking the potential hidden within every tech challenge by writing - one lin
 ## 💻 Latest Activities
 
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [VinuXD/animon](https://github.com/VinuXD/animon)<br>
 <!--RECENT_ACTIVITY:end-->
 
 ## 🎨 Funfact
